@@ -1,0 +1,14 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Ceramics: {'Dispersion': 6, 'Filament': 1, 'Pellets': 1, 'Powder': 3}
+list index out of range
+list index out of range
+list index out of range
+Feedstock-Process chart data: {'Technical Ceramics - Dispersion': 5, 'Clay / Concrete - Dispersion': 1, 'Clay / Concrete, Sand, Technical Ceramics - Powder': 1, 'Technical Ceramics - Powder': 2, 'Technical Ceramics - Pellets': 1, 'Technical Ceramics - Filament': 1}
+Creating the presentation.... 
+
+11
+11
+list index out of range
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Ceramics Map Round 2023-11-29_00-29.pptx

@@ -1,0 +1,17 @@
+
+Updating the Charts....
+['Mold Slurry Deposition', 'Vat Polymerization', 'Area-wise Vat Polymerization', 'Nanoparticle Jetting', 'Dispersion Material Extrusion', 'Filament Material Extrusion', 'Pellet Material Extrusion', 'Binder Jetting', 'Laser Powder Bed Fusion', 'Mold Powder Deposition']
+Creating the presentation.... 
+
+No images found for Mold Slurry Deposition!
+No images found for Vat Polymerization!
+No images found for Area-wise Vat Polymerization!
+No images found for Nanoparticle Jetting!
+No images found for Dispersion Material Extrusion!
+1 images found for Filament Material Extrusion.
+No images found for Pellet Material Extrusion!
+No images found for Binder Jetting!
+No images found for Laser Powder Bed Fusion!
+No images found for Mold Powder Deposition!
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Ceramics Map Round 2023-11-09_13-09.pptx

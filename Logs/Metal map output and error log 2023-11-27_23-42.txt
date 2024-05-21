@@ -1,0 +1,89 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Metal: {'Powder': 7, 'Wire': 5, 'Rods': 1, 'Other': 1, 'Dispersion': 4, 'Filament': 1, 'Pellets': 1}
+Feedstock-Process chart data: {'Direct - Powder': 4, 'Direct - Wire': 5, 'Direct - Rods': 1, 'Direct - Other': 1, 'Sinter-based - Dispersion': 4, 'Sinter-based - Filament': 1, 'Sinter-based - Pellets': 1, 'Sinter-based - Powder': 2}
+Creating the presentation.... 
+
+38.974152949248065
+31.303241838136948
+33.92147488587006
+34.399526937592334
+28.013821747138966
+34.86446932293829
+22.538984832014343
+32.5967176209128
+18.69040715025875
+28.090612112078855
+17.30702841880342
+22.328425000000003
+18.690407150258743
+16.56623788792115
+22.538984832014336
+12.060132379087207
+28.01382174713896
+9.792380677061713
+33.921474885870055
+10.257323062407664
+38.97415294924805
+13.353608161863038
+42.070438048703444
+18.406286225241047
+42.5353804340494
+24.313939363972164
+40.26762873202391
+29.788776279096766
+35.76152322318999
+33.63735396085235
+29.99933611111112
+35.02073269230769
+24.237148999032247
+33.63735396085236
+19.731043490198324
+29.78877627909678
+17.463291788172832
+24.313939363972178
+17.92823417351877
+18.406286225241082
+Electron Beam Powder Bed Fusion
+2023/9/AMP-270-Icons-190308-97 - Electron beam Powder Bed Fusion.svg
+Area-wise Laser Beam Powder Bed Fusion
+2023/10/Area-wise Laser Beam Powder Bed Fusion.svg
+Laser Powder Bed Fusion
+2023/9/AMP-270-Icons-190308-96 - Laser Beam Powder Bed Fusion.svg
+Powder Laser Energy Deposition
+2023/10/Powder Laser Energy Deposition.svg
+Cold Spray
+2023/9/AMP-270-Icons-190308-107 - Coldspray.svg
+Wire Electric Arc Energy Deposition
+2023/10/Wire Electric Arc Energy Deposition.svg
+Wire Plasma Arc Energy Deposition
+2023/10/Wire Plasma Arc Energy Deposition.svg
+Wire Laser Energy Deposition
+2023/10/Wire Laser Beam Energy Deposition.svg
+Wire Electron Beam Energy Deposition
+2023/10/Wire Electron Beam Energy Deposition.svg
+Liquid Metal Printing
+2023/9/AMP-270-Icons-190308-110 - Liquid Metal Printing.svg
+Friction Energy Deposition
+2023/9/AMP-270-Icons-190308-109 - Friction Energy Deposition.svg
+Other Metal
+2023/10/other.png
+Material Jetting
+2023/9/AMP-270-Icons-190308-106 - Nanoparticle Jetting.svg
+Mold Slurry Deposition
+2023/10/Mold Slurry Deposition_(2).svg
+Area-wise Vat Polymerisation
+2023/10/Metal Lithography.svg
+Dispersion Material Extrusion
+2023/11/Dispersion Material Extrusion (1)_(2).svg
+Filament Material Extrusion
+2023/9/AMP-270-Icons-190308-103 - Filament Material Extrusion.svg
+Pellet Material Extrusion
+2023/9/AMP-270-Icons-190308-102 - Pellet Material Extrusion OLD.svg
+Binder Jetting
+2023/9/AMP-270-Icons-190308-104 - Binder Jetting.svg
+Metal Selective Laser Sintering
+2023/9/AMP-270-Icons-190308-94 - Metal Selective Laser Sintering.svg
+KKKKKKKKKKKKKKKKK
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Metal Map Round 2023-11-27_23-42.pptx

@@ -1,0 +1,64 @@
+
+Updating the Charts....
+PC 2
+Sorted Feedstock chart data for Metal: 'Powder': 7, 'Wire': 5, 'Rods': 1, 'Other': 1, 'Dispersion': 4, 'Filament': 1, 'Pellets': 1
+Feedstock-Process chart data for Metal: {'Electron Beam Powder Bed Fusion': 1, 'Area-wise Laser Beam Powder Bed Fusion': 1, 'Laser Powder Bed Fusion': 1, 'Powder Laser Energy Deposition': 1, 'Cold Spray': 1, 'Wire Electric Arc Energy Deposition': 1, 'Wire Plasma Arc Energy Deposition': 1, 'Wire Laser Energy Deposition': 1, 'Wire Electron Beam Energy Deposition': 1, 'Liquid Metal Printing': 1, 'Friction Energy Deposition': 1, 'Other Metal': 1, 'Material Jetting': 1, 'Mold Slurry Deposition': 1, 'Area-wise Vat Polymerisation': 1, 'Dispersion Material Extrusion': 1, 'Filament Material Extrusion': 1, 'Pellet Material Extrusion': 1, 'Binder Jetting': 1, 'Metal Selective Laser Sintering': 1}
+
+Creating the presentation.... 
+for 0 x 29.999338888888886 y 5.798958333333335
+for 1 x 35.09811929607552 y 6.6065258144633
+for 2 x 39.69779555171469 y 8.9501779261467
+for 3 x 43.348119296075524 y 12.600501670507525
+for 4 x 45.69177140775892 y 17.200177926146697
+for 5 x 46.499338888888886 y 22.29895833333333
+for 6 x 45.69177140775892 y 27.397738740519962
+for 7 x 43.348119296075524 y 31.997414996159137
+for 8 x 39.6977955517147 y 35.64773874051996
+for 9 x 35.098119296075524 y 37.99139085220337
+for 10 x 29.999338888888893 y 38.79895833333333
+for 11 x 24.900558481702262 y 37.99139085220337
+for 12 x 20.300882226063088 y 35.64773874051997
+for 13 x 16.650558481702262 y 31.997414996159144
+for 14 x 14.306906370018858 y 27.397738740519973
+for 15 x 13.49933888888889 y 22.298958333333342
+for 16 x 14.306906370018854 y 17.200177926146708
+for 17 x 16.650558481702255 y 12.600501670507533
+for 18 x 20.300882226063077 y 8.950177926146706
+for 19 x 24.900558481702248 y 6.6065258144633034
+Image for Dispersion Material Extrusion not found. Using a default image.
+Image for Pellet Material Extrusion not found. Using a default image.
+10 images found for Electron Beam Powder Bed Fusion.
+2 images found for Area-wise Laser Beam Powder Bed Fusion.
+82 images found for Laser Powder Bed Fusion.
+33 images found for Powder Laser Energy Deposition.
+6 images found for Cold Spray.
+15 images found for Wire Electric Arc Energy Deposition.
+Unexpected error encountered while resizing C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/AMmake black logo.png: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/AMmake black logo.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+5 images found for Wire Plasma Arc Energy Deposition.
+13 images found for Wire Laser Energy Deposition.
+Unexpected error encountered while resizing C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/Permanova-GKN-Aerospace-Horizontal-Green.png: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/Permanova-GKN-Aerospace-Horizontal-Green.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+7 images found for Wire Electron Beam Energy Deposition.
+3 images found for Liquid Metal Printing.
+2 images found for Friction Energy Deposition.
+2 images found for Other Metal.
+2 images found for Material Jetting.
+1 images found for Mold Slurry Deposition.
+3 images found for Area-wise Vat Polymerisation.
+2 images found for Dispersion Material Extrusion.
+14 images found for Filament Material Extrusion.
+5 images found for Pellet Material Extrusion.
+16 images found for Binder Jetting.
+Unexpected error encountered while resizing C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/LOGO_addimetal_200X32px_FULLBLACK.svg: <urlopen error [WinError 2] The system cannot find the file specified: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023\\11\\LOGO_addimetal_200X32px_FULLBLACK.svg'>
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+1 images found for Metal Selective Laser Sintering.
+
+Header text has been updated.
+Footer text has been updated.
+Chart Legends has been added.
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Metal Map Round 2024-01-23_01-11.pptx

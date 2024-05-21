@@ -1,0 +1,298 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Metal: 'Powder': 7, 'Wire': 5, 'Rods': 1, 'Other': 1, 'Dispersion': 4, 'Filament': 1, 'Pellets': 1
+Feedstock-Process chart data for Metal: {'Electron Beam Powder Bed Fusion': 1, 'Area-wise Laser Beam Powder Bed Fusion': 1, 'Laser Powder Bed Fusion': 1, 'Powder Laser Energy Deposition': 1, 'Cold Spray': 1, 'Wire Electric Arc Energy Deposition': 1, 'Wire Plasma Arc Energy Deposition': 1, 'Wire Laser Energy Deposition': 1, 'Wire Electron Beam Energy Deposition': 1, 'Liquid Metal Printing': 1, 'Friction Energy Deposition': 1, 'Other Metal': 1, 'Material Jetting': 1, 'Mold Slurry Deposition': 1, 'Area-wise Vat Polymerisation': 1, 'Dispersion Material Extrusion': 1, 'Filament Material Extrusion': 1, 'Pellet Material Extrusion': 1, 'Binder Jetting': 1, 'Metal Selective Laser Sintering': 1}
+
+Creating the presentation.... 
+Image for Electron Beam Powder Bed Fusion not found. Using a default image.
+[Errno 2] No such file or directory: 'logos\\2023\\10\\other.png'
+10 images found for Electron Beam Powder Bed Fusion.
+Unexpected error encountered while resizing logos\2023/10/Logo Evobeam 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Evobeam 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/freemelt.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\freemelt.png'
+Unexpected error encountered while resizing logos\2023/10/GE_Additive_2018.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\GE_Additive_2018.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Jeol 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Jeol 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Mitsubishi Electric 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Mitsubishi Electric 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/logo pro-beam 20220225.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\logo pro-beam 20220225.svg'>
+Unexpected error encountered while resizing logos\2023/10/logo-fixed.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\logo-fixed.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Sailong Metal 20220225.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Sailong Metal 20220225.jpg'
+Unexpected error encountered while resizing logos\2023/10/oenyjrppbprcku5onriz.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\oenyjrppbprcku5onriz.png'
+Unexpected error encountered while resizing logos\2023/10/Logo ALD Vacuum Technologies 20230222.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo ALD Vacuum Technologies 20230222.jpg'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+2 images found for Area-wise Laser Beam Powder Bed Fusion.
+Unexpected error encountered while resizing logos\2023/10/_seurat__LOGO_COLOR_01052022.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\_seurat__LOGO_COLOR_01052022.png'
+Unexpected error encountered while resizing logos\2023/10/Logo VulcanForms 20221107.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo VulcanForms 20221107.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+82 images found for Laser Powder Bed Fusion.
+Unexpected error encountered while resizing logos\2023/10/coherent.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\coherent.png'
+Unexpected error encountered while resizing logos\2023/10/dedibot.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\dedibot.png'
+Unexpected error encountered while resizing logos\2023/10/Logo DMG Mori 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo DMG Mori 20220225.png'
+Unexpected error encountered while resizing logos\2023/8/eos_gmbh_logo_bw.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\8\\eos_gmbh_logo_bw.svg'>
+Unexpected error encountered while resizing logos\2023/10/eplus.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\eplus.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Ermaksan 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Ermaksan 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Evobeam 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Evobeam 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Farsoon 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Farsoon 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Fonon 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Fonon 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/GE_Additive_2018.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\GE_Additive_2018.png'
+Unexpected error encountered while resizing logos\2023/10/gf.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\gf.png'
+Unexpected error encountered while resizing logos\2023/10/hbd.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\hbd.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Hengtong 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Hengtong 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Huake.jpeg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Huake.jpeg'
+Unexpected error encountered while resizing logos\2023/10/intech.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\intech.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Kurtz Ersa 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Kurtz Ersa 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Laser Melting Innovations 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Laser Melting Innovations 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/laseradd.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\laseradd.png'
+Unexpected error encountered while resizing logos\2023/10/Unbenannt.JPG: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Unbenannt.JPG'
+Unexpected error encountered while resizing logos\2023/10/Logo Matsuura 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Matsuura 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Niiam 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Niiam 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Noura 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Noura 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Unbenannt_2.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Unbenannt_2.png'
+Unexpected error encountered while resizing logos\2023/10/open additive.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\open additive.png'
+Unexpected error encountered while resizing logos\2023/10/Logo OPM Lab 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo OPM Lab 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/prima.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\prima.png'
+Unexpected error encountered while resizing logos\2023/10/logo.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\logo.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Renishaw 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Renishaw 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/riton.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\riton.png'
+Unexpected error encountered while resizing logos\2023/10/logo Russian 3D Printers 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\logo Russian 3D Printers 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/samylabs.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\samylabs.png'
+Unexpected error encountered while resizing logos\2023/10/201901230525191731434994.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\201901230525191731434994.jpg'
+Unexpected error encountered while resizing logos\2023/10/Logo Sharebot 2022025.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Sharebot 2022025.jpg'
+Unexpected error encountered while resizing logos\2023/10/Logo Sisma 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Sisma 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo SLM Solutions 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo SLM Solutions 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Sodick 20220225_(2).png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Sodick 20220225_(2).png'
+Unexpected error encountered while resizing logos\2023/10/Logo SondaSys 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo SondaSys 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/sendaya.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\sendaya.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Techgine 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Techgine 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Tianjin Radium Laser Technologies 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Tianjin Radium Laser Technologies 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/tongtai.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\tongtai.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Trumpf 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Trumpf 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/tytus.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\tytus.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Velo3D 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Velo3D 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Vulcantech 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Vulcantech 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Wiiboox 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Wiiboox 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Winforsys 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Winforsys 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Xact-Metal_Logo_Gradient_2c_CMYK-scaled.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Xact-Metal_Logo_Gradient_2c_CMYK-scaled.jpg'
+Unexpected error encountered while resizing logos\2023/10/Logo XDM 3D Printing Technology 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo XDM 3D Printing Technology 20220225.png'
+Unexpected error encountered while resizing logos\2023/9/logo.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\9\\logo.svg'>
+Unexpected error encountered while resizing logos\2023/10/normal_05eafeaa7d560b68.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\normal_05eafeaa7d560b68.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Yongnian 20220228.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Yongnian 20220228.png'
+Unexpected error encountered while resizing logos\2023/10/Logo ZRapid Technologies 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo ZRapid Technologies 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Zuhai CTC Electronic 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Zuhai CTC Electronic 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/logo.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\logo.jpg'
+Unexpected error encountered while resizing logos\2023/10/uniontech-3d-printer-logo-tm_866.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\uniontech-3d-printer-logo-tm_866.png'
+Unexpected error encountered while resizing logos\2023/10/amace.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\amace.png'
+Unexpected error encountered while resizing logos\2023/10/Logo merain 20221103.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo merain 20221103.png'
+Unexpected error encountered while resizing logos\2023/10/nppower.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\nppower.png'
+Unexpected error encountered while resizing logos\2023/10/Logo TopMetal3d 20230222.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo TopMetal3d 20230222.png'
+Unexpected error encountered while resizing logos\2023/10/2onelab.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\2onelab.png'
+Unexpected error encountered while resizing logos\2023/10/0a5017e2ea99bd2bd12c0b09250c2f8f1f08_(4).jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\0a5017e2ea99bd2bd12c0b09250c2f8f1f08_(4).jpg'
+Unexpected error encountered while resizing logos\2023/10/Veltz.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Veltz.png'
+Unexpected error encountered while resizing logos\2023/10/3d-microprint-logo-400x123.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\3d-microprint-logo-400x123.png'
+Unexpected error encountered while resizing logos\2023/10/3d-systems-vector-logo.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\3d-systems-vector-logo.png'
+Unexpected error encountered while resizing logos\2023/10/Logo 3D4Steel 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo 3D4Steel 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/mectronic.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\mectronic.png'
+Unexpected error encountered while resizing logos\2023/10/micro.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\micro.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Aconity 3D 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Aconity 3D 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo ADC Aeroswift 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo ADC Aeroswift 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Additive Industries 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Additive Industries 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/additive.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\additive.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Addsol 20220228.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Addsol 20220228.png'
+Unexpected error encountered while resizing logos\2023/10/addup.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\addup.png'
+Unexpected error encountered while resizing logos\2023/10/adira.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\adira.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Aditiv Solutions 20220228.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Aditiv Solutions 20220228.png'
+Unexpected error encountered while resizing logos\2023/10/alkimat.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\alkimat.png'
+Unexpected error encountered while resizing logos\2023/10/alpha.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\alpha.png'
+Unexpected error encountered while resizing logos\2023/10/ampro.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\ampro.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Aspect 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Aspect 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/aurora.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\aurora.png'
+Unexpected error encountered while resizing logos\2023/10/l_89312654d74c8c7e9d7bfc4355ccc530.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\l_89312654d74c8c7e9d7bfc4355ccc530.jpg'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+33 images found for Powder Laser Energy Deposition.
+Unexpected error encountered while resizing logos\2023/10/logo_2.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\logo_2.svg'>
+Unexpected error encountered while resizing logos\2023/10/coherent.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\coherent.png'
+Unexpected error encountered while resizing logos\2023/10/dedibot.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\dedibot.png'
+Unexpected error encountered while resizing logos\2023/10/dm3d.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\dm3d.png'
+Unexpected error encountered while resizing logos\2023/10/Logo DMG Mori 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo DMG Mori 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Formalloy 20220225.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Formalloy 20220225.jpg'
+Unexpected error encountered while resizing logos\2023/10/Logo Hybrid Manufacturing 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Hybrid Manufacturing 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Ibarmia 20221103.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Ibarmia 20221103.svg'>
+Unexpected error encountered while resizing logos\2023/10/insstek.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\insstek.png'
+Unexpected error encountered while resizing logos\2023/10/laseradd.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\laseradd.png'
+Unexpected error encountered while resizing logos\2023/10/Unbenannt.JPG: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Unbenannt.JPG'
+Unexpected error encountered while resizing logos\2023/10/lunovu.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\lunovu.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Mazak 20220228.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Mazak 20220228.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Meltio 20220225.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Meltio 20220225.svg'>
+Unexpected error encountered while resizing logos\2023/10/Logo Noura 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Noura 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/optomec.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\optomec.png'
+Unexpected error encountered while resizing logos\2023/10/prima.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\prima.png'
+Unexpected error encountered while resizing logos\2023/10/logo.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\logo.png'
+Unexpected error encountered while resizing logos\2023/10/romi.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\romi.png'
+Unexpected error encountered while resizing logos\2023/10/rpm.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\rpm.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Sugino 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Sugino 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/tongtai.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\tongtai.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Trumpf 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Trumpf 20220225.png'
+Unexpected error encountered while resizing logos\2023/9/logo.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\9\\logo.svg'>
+Unexpected error encountered while resizing logos\2023/10/Logo Yongnian 20220228.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Yongnian 20220228.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Nikon 20230222.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Nikon 20230222.svg'>
+Unexpected error encountered while resizing logos\2023/11/AMFREE-LOGO.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\11\\AMFREE-LOGO.png'
+Unexpected error encountered while resizing logos\2023/10/3dhybrid.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\3dhybrid.png'
+Unexpected error encountered while resizing logos\2023/10/3d-systems-vector-logo.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\3d-systems-vector-logo.png'
+Unexpected error encountered while resizing logos\2023/10/additec.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\additec.png'
+Unexpected error encountered while resizing logos\2023/10/addup.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\addup.png'
+Unexpected error encountered while resizing logos\2023/10/alpha.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\alpha.png'
+Unexpected error encountered while resizing logos\2023/10/Blk-BeAM-Full-Logo---AAC.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Blk-BeAM-Full-Logo---AAC.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+6 images found for Cold Spray.
+Unexpected error encountered while resizing logos\2023/10/0168c873-dee8-4300-a67b-a84a24d8e92c.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\0168c873-dee8-4300-a67b-a84a24d8e92c.png'
+Unexpected error encountered while resizing logos\2023/10/Impact-Innovations_Logo-2021.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Impact-Innovations_Logo-2021.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Spee3D 20220225.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Spee3D 20220225.jpg'
+Unexpected error encountered while resizing logos\2023/10/titomic.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\titomic.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Plasma 20220228.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Plasma 20220228.jpg'
+Unexpected error encountered while resizing logos\2023/10/3dhybrid.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\3dhybrid.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+15 images found for Wire Electric Arc Energy Deposition.
+Unexpected error encountered while resizing logos\2023/10/GEFERTEC_LOGO.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\GEFERTEC_LOGO.png'
+Unexpected error encountered while resizing logos\2023/10/lincoln.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\lincoln.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Mazak 20220228.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Mazak 20220228.png'
+Unexpected error encountered while resizing logos\2023/10/mx3e.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\mx3e.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Prodways 20220228.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Prodways 20220228.png'
+Unexpected error encountered while resizing logos\2023/10/logo.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\logo.png'
+Unexpected error encountered while resizing logos\2023/10/metrom.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\metrom.png'
+Unexpected error encountered while resizing logos\2023/10/20130313101307!Fronius_International_logo.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\20130313101307!Fronius_International_logo.svg'>
+Unexpected error encountered while resizing logos\2023/10/Logo RAMLAB 20230222.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo RAMLAB 20230222.png'
+Unexpected error encountered while resizing logos\2023/11/enigma-logo.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\11\\enigma-logo.png'
+Unexpected error encountered while resizing logos\2023/10/Logo VLM Robotics 20221103.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo VLM Robotics 20221103.jpg'
+Unexpected error encountered while resizing logos\2023/10/metalworm.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\metalworm.png'
+Unexpected error encountered while resizing logos\2023/11/AMmake black logo.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\11\\AMmake black logo.png'
+Unexpected error encountered while resizing logos\2023/10/3dhybrid.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\3dhybrid.png'
+Unexpected error encountered while resizing logos\2023/10/aml3d.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\aml3d.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+5 images found for Wire Plasma Arc Energy Deposition.
+Unexpected error encountered while resizing logos\2023/10/norsk_(2).png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\norsk_(2).png'
+Unexpected error encountered while resizing logos\2023/10/Logo SBI 20221103.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo SBI 20221103.png'
+Unexpected error encountered while resizing logos\2023/10/Logo WAAM 20220228.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo WAAM 20220228.png'
+Unexpected error encountered while resizing logos\2023/10/Logo alloyadditive 20230222.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo alloyadditive 20230222.svg'>
+Unexpected error encountered while resizing logos\2023/10/Logo Addilán 20220228.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Addilán 20220228.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+13 images found for Wire Laser Energy Deposition.
+Unexpected error encountered while resizing logos\2023/10/logo_2.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\logo_2.svg'>
+Unexpected error encountered while resizing logos\2023/10/Logo Formalloy 20220225.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Formalloy 20220225.jpg'
+Unexpected error encountered while resizing logos\2023/10/Logo Meltio 20220225.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Meltio 20220225.svg'>
+Unexpected error encountered while resizing logos\2023/10/Logo Mitsubishi Electric 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Mitsubishi Electric 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/procada.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\procada.png'
+Unexpected error encountered while resizing logos\2023/11/NIDEC_(3).png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\11\\NIDEC_(3).png'
+Unexpected error encountered while resizing logos\2023/10/Logo Oscar PLT 20230222.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Oscar PLT 20230222.png'
+Unexpected error encountered while resizing logos\2023/11/AMFREE-LOGO.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\11\\AMFREE-LOGO.png'
+Unexpected error encountered while resizing logos\2023/11/Permanova-GKN-Aerospace-Horizontal-Green.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\11\\Permanova-GKN-Aerospace-Horizontal-Green.png'
+Unexpected error encountered while resizing logos\2023/10/3dhybrid.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\3dhybrid.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Aconity 3D 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Aconity 3D 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/addere.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\addere.png'
+Unexpected error encountered while resizing logos\2023/10/additec.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\additec.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+7 images found for Wire Electron Beam Energy Deposition.
+Unexpected error encountered while resizing logos\2023/10/chervona.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\chervona.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Evobeam 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Evobeam 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/logo pro-beam 20220225.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\logo pro-beam 20220225.svg'>
+Unexpected error encountered while resizing logos\2023/10/rus.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\rus.png'
+Unexpected error encountered while resizing logos\2023/10/sciaky.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\sciaky.png'
+Unexpected error encountered while resizing logos\2023/10/Logo DMAMS 20220228.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo DMAMS 20220228.png'
+Unexpected error encountered while resizing logos\2023/10/bma.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\bma.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+3 images found for Liquid Metal Printing.
+Unexpected error encountered while resizing logos\2023/10/Logo ValCUN 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo ValCUN 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/grob_logo.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\grob_logo.svg'>
+Unexpected error encountered while resizing logos\2023/10/additec.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\additec.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+2 images found for Friction Energy Deposition.
+Unexpected error encountered while resizing logos\2023/10/Logo MELD Manufacturing 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo MELD Manufacturing 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/WEISSER-Logo_AHC-2022.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\WEISSER-Logo_AHC-2022.svg'>
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+2 images found for Other Metal.
+Unexpected error encountered while resizing logos\2023/10/exaddon.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\exaddon.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Yongnian 20220228.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Yongnian 20220228.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+2 images found for Material Jetting.
+Unexpected error encountered while resizing logos\2023/10/nanogrande.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\nanogrande.png'
+Unexpected error encountered while resizing logos\2023/10/Logo XJet 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo XJet 20220225.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+1 images found for Mold Slurry Deposition.
+Unexpected error encountered while resizing logos\2023/10/Logo Tritone 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Tritone 20220225.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+3 images found for Area-wise Vat Polymerisation.
+Unexpected error encountered while resizing logos\2023/10/Logo Holo - Kopie.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Holo - Kopie.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Incus 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Incus 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/admatec.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\admatec.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+2 images found for Dispersion Material Extrusion.
+Unexpected error encountered while resizing logos\2023/10/Mantle_Logo_high_res.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Mantle_Logo_high_res.jpg'
+Unexpected error encountered while resizing logos\2023/10/Logo Rapidia 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Rapidia 20220225.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+14 images found for Filament Material Extrusion.
+Unexpected error encountered while resizing logos\2023/10/Logo CoLiDo 20220225.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo CoLiDo 20220225.jpg'
+Unexpected error encountered while resizing logos\2023/10/Desktop_Metal_logo_horizontal.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Desktop_Metal_logo_horizontal.jpg'
+Unexpected error encountered while resizing logos\2023/10/Logo Evo-Tech 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Evo-Tech 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Hage3D 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Hage3D 20220225.png'
+Unexpected error encountered while resizing logos\2023/9/logo-black-2000.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\9\\logo-black-2000.jpg'
+Unexpected error encountered while resizing logos\2023/10/Logo Multec 20220225.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Multec 20220225.jpg'
+Unexpected error encountered while resizing logos\2023/10/Logo Opiliones 20220228.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Opiliones 20220228.png'
+Unexpected error encountered while resizing logos\2023/10/The_Virtual_Foundry-01_2.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\The_Virtual_Foundry-01_2.png'
+Unexpected error encountered while resizing logos\2023/10/triditive.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\triditive.png'
+Unexpected error encountered while resizing logos\2023/10/logoXERION-BERLIN-LABORATORIES-GmbH-176610DE-2007081117.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\logoXERION-BERLIN-LABORATORIES-GmbH-176610DE-2007081117.png'
+Unexpected error encountered while resizing logos\2023/10/3ntr.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\3ntr.png'
+Unexpected error encountered while resizing logos\2023/10/logo-with-slogan-color-on-transparent-1024x302.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\logo-with-slogan-color-on-transparent-1024x302.png'
+Unexpected error encountered while resizing logos\2023/10/metallum_logo_side_tet_revised_october.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\metallum_logo_side_tet_revised_october.png'
+Unexpected error encountered while resizing logos\2023/10/Logo Apium Additive Technologies 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Apium Additive Technologies 20220225.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+5 images found for Pellet Material Extrusion.
+Unexpected error encountered while resizing logos\2023/10/pollen.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\pollen.png'
+Unexpected error encountered while resizing logos\2023/10/triditive.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\triditive.png'
+Unexpected error encountered while resizing logos\2023/10/epeire.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\epeire.png'
+Unexpected error encountered while resizing logos\2023/10/1587047936523.jpeg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\1587047936523.jpeg'
+Unexpected error encountered while resizing logos\2023/10/Logo Aim3D 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Aim3D 20220225.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+16 images found for Binder Jetting.
+Unexpected error encountered while resizing logos\2023/10/Desktop_Metal_logo_horizontal.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Desktop_Metal_logo_horizontal.jpg'
+Unexpected error encountered while resizing logos\2023/10/Logo ExOne 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo ExOne 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/GE_Additive_2018.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\GE_Additive_2018.png'
+Unexpected error encountered while resizing logos\2023/10/Logo HP 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo HP 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/Unbenannt.JPG: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Unbenannt.JPG'
+Unexpected error encountered while resizing logos\2023/9/logo-black-2000.jpg: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\9\\logo-black-2000.jpg'
+Unexpected error encountered while resizing logos\2023/10/meta.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\meta.png'
+Unexpected error encountered while resizing logos\2023/10/triditive.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\triditive.png'
+Unexpected error encountered while resizing logos\2023/10/logo (2).png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\logo (2).png'
+Unexpected error encountered while resizing logos\2023/10/Logo Ricoh 20220225.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Ricoh 20220225.png'
+Unexpected error encountered while resizing logos\2023/10/logo (1).png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\logo (1).png'
+Unexpected error encountered while resizing logos\2023/10/Logo Sinterjet 20230222.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo Sinterjet 20230222.png'
+Unexpected error encountered while resizing logos\2023/10/Logo B-JETTING 20230306.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo B-JETTING 20230306.png'
+Unexpected error encountered while resizing logos\2023/10/veq6.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\veq6.png'
+Unexpected error encountered while resizing logos\2023/11/LOGO_addimetal_200X32px_FULLBLACK.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\11\\LOGO_addimetal_200X32px_FULLBLACK.svg'>
+Unexpected error encountered while resizing logos\2023/10/Logo 3DEO.png: [Errno 2] No such file or directory: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo 3DEO.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+1 images found for Metal Selective Laser Sintering.
+Unexpected error encountered while resizing logos\2023/10/Logo headmade materials 20220225.svg: <urlopen error [WinError 3] The system cannot find the path specified: 'D:\\AMPOWER\\technology_maps\\logos\\2023\\10\\Logo headmade materials 20220225.svg'>
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+
+Header text has been updated.
+Footer text has been updated.
+Chart Legends has been added.
+
+Presentation saved successfully at D:\AMPOWER\technology_maps\Map Output\Metal Map Round 2024-05-21_13-02.pptx

@@ -1,0 +1,76 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Polymer: 'Liquid': 7, 'Liquid': 2, 'Sheet': 1, 'Powder': 3, 'Tape': 1, 'Filament': 2, 'Pellets': 1
+Polymer material detected - fs_process chart has been removed.
+
+Creating the presentation.... 
+for 0 r 16.5 mod 0.8584999999999999 rc 17.78775
+for 1 r 16.5 mod 0.8584999999999999 rc 16.5
+for 2 r 16.5 mod 0.8584999999999999 rc 15.6415
+for 3 r 16.5 mod 0.8584999999999999 rc 14.783000000000001
+for 4 r 16.5 mod 0.8584999999999999 rc 13.924500000000002
+for 5 r 16.5 mod 0.8584999999999999 rc 14.783000000000001
+for 6 r 16.5 mod 0.8584999999999999 rc 15.6415
+for 7 r 16.5 mod 0.8584999999999999 rc 16.5
+for 8 r 16.5 mod 0.8584999999999999 rc 16.5
+for 9 r 16.5 mod 0.8584999999999999 rc 15.6415
+for 10 r 16.5 mod 0.8584999999999999 rc 14.783000000000001
+for 11 r 16.5 mod 0.8584999999999999 rc 13.924500000000002
+for 12 r 16.5 mod 0.8584999999999999 rc 13.066000000000003
+for 13 r 16.5 mod 0.8584999999999999 rc 13.924500000000002
+for 14 r 16.5 mod 0.8584999999999999 rc 14.783000000000001
+for 15 r 16.5 mod 0.8584999999999999 rc 15.6415
+for 16 r 16.5 mod 0.8584999999999999 rc 16.5
+
+Header text has been updated.
+Footer text has been updated.
+Chart Legends has been added.
+Traceback (most recent call last):
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 81, in _write
+    self._write_content_types_stream(phys_writer)
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 91, in _write_content_types_stream
+    phys_writer.write(
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 220, in write
+    self._zipf.writestr(pack_uri.membername, blob)
+    ^^^^^^^^^^
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\util.py", line 215, in __get__
+    value = self._fget(obj)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 225, in _zipf
+    return zipfile.ZipFile(self._pkg_file, "w", compression=zipfile.ZIP_DEFLATED)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\zipfile.py", line 1284, in __init__
+    self.fp = io.open(file, filemode)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'Map Output\\Polymer Map Round 2024-01-10_22-29.pptx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\technology_maps.py", line 63, in <module>
+    main(material)
+  File "C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\technology_maps.py", line 50, in main
+    map.prs.save(output_path)
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\presentation.py", line 39, in save
+    self.part.save(file)
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\parts\presentation.py", line 107, in save
+    self.package.save(path_or_stream)
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\package.py", line 153, in save
+    PackageWriter.write(pkg_file, self._rels, tuple(self.iter_parts()))
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 76, in write
+    cls(pkg_file, pkg_rels, parts)._write()
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 80, in _write
+    with _PhysPkgWriter.factory(self._pkg_file) as phys_writer:
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 216, in __exit__
+    self._zipf.close()
+    ^^^^^^^^^^
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\util.py", line 215, in __get__
+    value = self._fget(obj)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 225, in _zipf
+    return zipfile.ZipFile(self._pkg_file, "w", compression=zipfile.ZIP_DEFLATED)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\zipfile.py", line 1284, in __init__
+    self.fp = io.open(file, filemode)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'Map Output\\Polymer Map Round 2024-01-10_22-29.pptx'

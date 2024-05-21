@@ -1,0 +1,37 @@
+
+Updating the Charts....
+PC 2
+Sorted Feedstock chart data for Metal: 'Powder': 7, 'Wire': 5, 'Rods': 1, 'Other': 1, 'Dispersion': 4, 'Filament': 1, 'Pellets': 1
+Feedstock-Process chart data for Metal: {'Electron Beam Powder Bed Fusion': 1, 'Area-wise Laser Beam Powder Bed Fusion': 1, 'Laser Powder Bed Fusion': 1, 'Powder Laser Energy Deposition': 1, 'Cold Spray': 1, 'Wire Electric Arc Energy Deposition': 1, 'Wire Plasma Arc Energy Deposition': 1, 'Wire Laser Energy Deposition': 1, 'Wire Electron Beam Energy Deposition': 1, 'Liquid Metal Printing': 1, 'Friction Energy Deposition': 1, 'Other Metal': 1, 'Material Jetting': 1, 'Mold Slurry Deposition': 1, 'Area-wise Vat Polymerisation': 1, 'Dispersion Material Extrusion': 1, 'Filament Material Extrusion': 1, 'Pellet Material Extrusion': 1, 'Binder Jetting': 1, 'Metal Selective Laser Sintering': 1}
+
+Creating the presentation.... 
+10.0
+for 0 r 16.5 mod 1.0 rc 18.0
+for 1 r 16.5 mod 1.0 rc 16.5
+for 2 r 16.5 mod 1.0 rc 15.5
+for 3 r 16.5 mod 1.0 rc 14.5
+for 4 r 16.5 mod 1.0 rc 13.5
+for 5 r 16.5 mod 1.0 rc 14.5
+for 6 r 16.5 mod 1.0 rc 15.5
+for 7 r 16.5 mod 1.0 rc 16.5
+for 8 r 16.5 mod 1.0 rc 16.5
+for 9 r 16.5 mod 1.0 rc 16.5
+10.0
+for 10 r 16.5 mod 1.0 rc 18.0
+for 11 r 16.5 mod 1.0 rc 16.5
+for 12 r 16.5 mod 1.0 rc 15.5
+for 13 r 16.5 mod 1.0 rc 14.5
+for 14 r 16.5 mod 1.0 rc 13.5
+for 15 r 16.5 mod 1.0 rc 14.5
+for 16 r 16.5 mod 1.0 rc 15.5
+for 17 r 16.5 mod 1.0 rc 16.5
+for 18 r 16.5 mod 1.0 rc 16.5
+for 19 r 16.5 mod 1.0 rc 16.5
+Image for Dispersion Material Extrusion not found. Using a default image.
+Image for Pellet Material Extrusion not found. Using a default image.
+
+Header text has been updated.
+Footer text has been updated.
+Chart Legends has been added.
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Metal Map Round 2024-01-10_22-10.pptx

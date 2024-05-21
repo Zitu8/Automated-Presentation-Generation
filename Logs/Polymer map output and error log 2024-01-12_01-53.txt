@@ -1,0 +1,42 @@
+
+Updating the Charts....
+Chart moved to: x=10.313808333333334 cm, y=2.6143916666666667 cm
+Chart moved to: x=18.582752777777777 cm, y=10.882372222222223 cm
+Chart moved to: x=19.72441111111111 cm, y=12.024030555555555 cm
+Chart moved to: x=19.72441111111111 cm, y=12.024030555555555 cm
+Sorted Feedstock chart data for Polymer: 'Liquid': 7, 'Liquid': 2, 'Sheet': 1, 'Powder': 3, 'Tape': 1, 'Filament': 2, 'Pellets': 1
+Polymer material detected - fs_process chart has been removed.
+
+Creating the presentation.... 
+2 images found for Area-wise Film Polymerization.
+87 images found for Area-wise Vat Polymerization.
+41 images found for VAT Polymerization.
+3 images found for Volumetric VAT Polymerization.
+10 images found for Material Jetting.
+3 images found for Thermoset Deposition.
+3 images found for Continuous Fiber Thermoset Deposition.
+10 images found for Elastomer Deposition.
+1 images found for Vat Vulcanization.
+1 images found for Continuous Fiber Sheet Lamination.
+1 images found for Electrophotography Lamination.
+4 images found for Thermal Powder Bed Fusion.
+24 images found for Laser Powder Bed Fusion.
+5 images found for Continuous Fiber Thermoplastic Deposition.
+7 images found for Continuous Fiber Material Extrusion.
+162 images found for Filament Material Extrusion.
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/3DX.jpg: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/3DX.jpg'
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/logo_3d_evolve_BIG.jpg: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/logo_3d_evolve_BIG.jpg'
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/Prolay.svg: <urlopen error [WinError 2] The system cannot find the file specified: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023\\11\\Prolay.svg'>
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/FLSUN.jpeg: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/FLSUN.jpeg'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+55 images found for Pellet Material Extrusion.
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/Lines.svg: <urlopen error [WinError 2] The system cannot find the file specified: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023\\11\\Lines.svg'>
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+
+Header text has been updated.
+Footer text has been updated.
+Chart Legends has been added.
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Polymer Map Round 2024-01-12_01-53.pptx

@@ -1,0 +1,64 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Polymer: 'Liquid': 7, 'Liquid': 2, 'Sheet': 1, 'Powder': 3, 'Tape': 1, 'Filament': 2, 'Pellets': 1
+Polymer material detected - fs_process chart has been removed.
+
+Creating the presentation.... 
+for 1 rc 16.5 y 5.799
+for 2 rc 16.5 y 6.913
+for 3 rc 16.5 y 10.105
+for 4 rc 16.5 y 14.944
+for 5 rc 16.5 y 20.777
+for 6 rc 16.5 y 26.814
+for 7 rc 16.5 y 32.242
+for 8 rc 16.5 y 36.328
+for 9 rc 16.5 y 38.518
+for 10 rc 16.5 y 38.518
+for 11 rc 16.5 y 36.328
+for 12 rc 16.5 y 32.242
+for 13 rc 16.5 y 26.814
+for 14 rc 16.5 y 20.777
+for 15 rc 16.5 y 14.944
+for 16 rc 16.5 y 10.105
+for 17 rc 16.5 y 6.913
+2 images found for Area-wise Film Polymerization.
+87 images found for Area-wise Vat Polymerization.
+Unexpected error encountered while resizing C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/12/zongheng_logo.jpeg: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/12/zongheng_logo.jpeg'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+42 images found for VAT Polymerization.
+Unexpected error encountered while resizing C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/12/zongheng_logo.jpeg: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/12/zongheng_logo.jpeg'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+3 images found for Volumetric VAT Polymerization.
+10 images found for Material Jetting.
+3 images found for Thermoset Deposition.
+3 images found for Continuous Fiber Thermoset Deposition.
+10 images found for Elastomer Deposition.
+1 images found for Vat Vulcanization.
+1 images found for Continuous Fiber Sheet Lamination.
+1 images found for Electrophotography Lamination.
+4 images found for Thermal Powder Bed Fusion.
+25 images found for Laser Powder Bed Fusion.
+Unexpected error encountered while resizing C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/12/zongheng_logo.jpeg: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/12/zongheng_logo.jpeg'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+5 images found for Continuous Fiber Thermoplastic Deposition.
+7 images found for Continuous Fiber Material Extrusion.
+162 images found for Filament Material Extrusion.
+Unexpected error encountered while resizing C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/3DX.jpg: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/3DX.jpg'
+Unexpected error encountered while resizing C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/logo_3d_evolve_BIG.jpg: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/logo_3d_evolve_BIG.jpg'
+Unexpected error encountered while resizing C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/Prolay.svg: <urlopen error [WinError 2] The system cannot find the file specified: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023\\11\\Prolay.svg'>
+Unexpected error encountered while resizing C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/FLSUN.jpeg: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/FLSUN.jpeg'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+55 images found for Pellet Material Extrusion.
+Unexpected error encountered while resizing C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/Lines.svg: <urlopen error [WinError 2] The system cannot find the file specified: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023\\11\\Lines.svg'>
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+
+Header text has been updated.
+Footer text has been updated.
+Chart Legends has been added.
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Polymer Map Round 2024-01-23_05-58.pptx

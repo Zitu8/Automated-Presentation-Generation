@@ -1,0 +1,40 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Ceramics: 'Dispersion': 7, 'Powder': 3, 'Pellets': 1, 'Filament': 1
+Feedstock-Process chart data for Ceramics: {'Laser Slurry Drying': [1, 1, 1], 'Mold Slurry Deposition': [1, 1, 1], 'Vat Polymerization': [1, 1, 1], 'Area-wise Vat Polymerization': [1, 1, 1], 'Material Jetting': [1, 1, 1], 'Dispersion Material Extrusion': [1, 1, 1], 'Slurry-based Binder Jetting': [1, 1, 1], 'Binder Jetting': [1, 1, 1], 'Laser Powder Bed Fusion': [1, 1, 1], 'Mold Powder Deposition': [1, 1, 1], 'Pellet Material Extrusion': [1, 1, 1], 'Filament Material Extrusion': [1, 1, 1]}
+
+Creating the presentation.... 
+for 1 rc 16.5 y 5.799
+for 2 rc 16.5 y 8.01
+for 3 rc 16.5 y 14.049
+for 4 rc 16.5 y 22.299
+for 5 rc 16.5 y 30.549
+for 6 rc 16.5 y 36.588
+for 7 rc 16.5 y 38.799
+for 8 rc 16.5 y 36.588
+for 9 rc 16.5 y 30.549
+for 10 rc 16.5 y 22.299
+for 11 rc 16.5 y 14.049
+for 12 rc 16.5 y 8.01
+1 images found for Laser Slurry Drying.
+1 images found for Mold Slurry Deposition.
+6 images found for Vat Polymerization.
+13 images found for Area-wise Vat Polymerization.
+3 images found for Material Jetting.
+Unexpected error encountered while resizing C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/AMAREA_Technology_web_registered.png: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/AMAREA_Technology_web_registered.png'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+19 images found for Dispersion Material Extrusion.
+1 images found for Slurry-based Binder Jetting.
+19 images found for Binder Jetting.
+3 images found for Laser Powder Bed Fusion.
+1 images found for Mold Powder Deposition.
+Error adding image from path C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/cropped-Logo_Aerosint_longueur_01a.webp: unsupported image format, expected one of: dict_keys(['BMP', 'GIF', 'JPEG', 'PNG', 'TIFF', 'WMF']), got 'WEBP'
+3 images found for Pellet Material Extrusion.
+3 images found for Filament Material Extrusion.
+
+Header text has been updated.
+Footer text has been updated.
+Chart Legends has been added.
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Ceramics Map Round 2024-01-23_01-31.pptx

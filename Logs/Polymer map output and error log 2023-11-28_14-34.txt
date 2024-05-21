@@ -1,0 +1,61 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Polymer: {'Liquid - D': 0, 'Liquid - E': 0, 'Sheet': 1, 'Powder': 3, 'Tape': 1, 'Filament': 2, 'Pellets': 1}
+Polymer material detected - fs_process chart will be removed.
+Creating the presentation.... 
+
+17
+17
+pos
+0
+11563791
+pos
+1
+12988665
+pos
+2
+14117916
+pos
+3
+14799032
+pos
+4
+14940023
+pos
+5
+14521849
+pos
+6
+13600987
+pos
+7
+12301803
+pos
+8
+10799761
+pos
+9
+9297718
+pos
+10
+7998534
+pos
+11
+7077672
+pos
+12
+6659498
+pos
+13
+6800489
+pos
+14
+7481605
+pos
+15
+8610856
+pos
+16
+10035730
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Polymer Map Round 2023-11-28_14-34.pptx

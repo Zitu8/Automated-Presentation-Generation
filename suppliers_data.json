@@ -1,0 +1,2099 @@
+[
+    {
+        "ID": "1019-4301",
+        "Latest": null,
+        "OEM": "Chervona Hvilya",
+        "Link": "http://www.xbeam3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electron Beam Energy Deposition",
+        "Logo": "2023/10/chervona.png"
+    },
+    {
+        "ID": "1020-4295",
+        "Latest": null,
+        "OEM": "Chiron Group",
+        "Link": "https://www.chiron-group.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/logo_2.svg"
+    },
+    {
+        "ID": "1020-4302",
+        "Latest": null,
+        "OEM": "Chiron Group",
+        "Link": "https://www.chiron-group.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Laser Energy Deposition",
+        "Logo": "2023/10/logo_2.svg"
+    },
+    {
+        "ID": "1028-4285",
+        "Latest": null,
+        "OEM": "Coherent",
+        "Link": "http://www.coherent.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/coherent.png"
+    },
+    {
+        "ID": "1028-4295",
+        "Latest": null,
+        "OEM": "Coherent",
+        "Link": "http://www.coherent.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/coherent.png"
+    },
+    {
+        "ID": "1029-4288",
+        "Latest": null,
+        "OEM": "CoLiDo",
+        "Link": "http://www.colido.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Filament Material Extrusion",
+        "Logo": "2023/10/Logo CoLiDo 20220225.jpg"
+    },
+    {
+        "ID": "1049-4285",
+        "Latest": null,
+        "OEM": "Dedibot",
+        "Link": "http://www.dedibot.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/dedibot.png"
+    },
+    {
+        "ID": "1049-4295",
+        "Latest": null,
+        "OEM": "Dedibot",
+        "Link": "http://www.dedibot.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/dedibot.png"
+    },
+    {
+        "ID": "1053-4281",
+        "Latest": null,
+        "OEM": "Desktop Metal",
+        "Link": "http://www.desktopmetal.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/10/Desktop_Metal_logo_horizontal.jpg"
+    },
+    {
+        "ID": "1053-4288",
+        "Latest": null,
+        "OEM": "Desktop Metal",
+        "Link": "http://www.desktopmetal.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Filament Material Extrusion",
+        "Logo": "2023/10/Desktop_Metal_logo_horizontal.jpg"
+    },
+    {
+        "ID": "1060-4297",
+        "Latest": null,
+        "OEM": "Digital Alloys",
+        "Link": "http://www.digitalalloys.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Resistance Welding",
+        "Logo": "2023/10/Digital-Alloys-Logo-Dark-Web-Hi-Res-e1548273789400.png"
+    },
+    {
+        "ID": "1067-4295",
+        "Latest": null,
+        "OEM": "DM3D",
+        "Link": "http://www.dm3dtech.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/dm3d.png"
+    },
+    {
+        "ID": "1069-4285",
+        "Latest": null,
+        "OEM": "DMG Mori",
+        "Link": "http://www.dmgmori.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo DMG Mori 20220225.png"
+    },
+    {
+        "ID": "1069-4295",
+        "Latest": null,
+        "OEM": "DMG Mori",
+        "Link": "http://www.dmgmori.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/Logo DMG Mori 20220225.png"
+    },
+    {
+        "ID": "1079-4285",
+        "Latest": null,
+        "OEM": "EOS",
+        "Link": "http://www.eos.info",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/8/eos_gmbh_logo_bw.svg"
+    },
+    {
+        "ID": "1080-4285",
+        "Latest": null,
+        "OEM": "Eplus3D",
+        "Link": "http://www.eplus3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/eplus.png"
+    },
+    {
+        "ID": "1083-4285",
+        "Latest": null,
+        "OEM": "Ermaksan",
+        "Link": "http://www.ermaksan.com.tr",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Ermaksan 20220225.png"
+    },
+    {
+        "ID": "1087-4283",
+        "Latest": null,
+        "OEM": "Evobeam",
+        "Link": "http://www.evobeam.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Electron Beam Powder Bed Fusion",
+        "Logo": "2023/10/Logo Evobeam 20220225.png"
+    },
+    {
+        "ID": "1087-4285",
+        "Latest": null,
+        "OEM": "Evobeam",
+        "Link": "http://www.evobeam.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Evobeam 20220225.png"
+    },
+    {
+        "ID": "1087-4301",
+        "Latest": null,
+        "OEM": "Evobeam",
+        "Link": "http://www.evobeam.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electron Beam Energy Deposition",
+        "Logo": "2023/10/Logo Evobeam 20220225.png"
+    },
+    {
+        "ID": "1088-4288",
+        "Latest": null,
+        "OEM": "Evo-Tech",
+        "Link": "http://www.evo-tech.eu",
+        "Material_Cluster": "Metal",
+        "Technology": "Filament Material Extrusion",
+        "Logo": "2023/10/Logo Evo-Tech 20220225.png"
+    },
+    {
+        "ID": "1090-4294",
+        "Latest": null,
+        "OEM": "Exaddon",
+        "Link": "http://www.exaddon.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Other Metal",
+        "Logo": "2023/10/exaddon.png"
+    },
+    {
+        "ID": "1092-4281",
+        "Latest": null,
+        "OEM": "ExOne",
+        "Link": "http://www.exone.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/10/Logo ExOne 20220225.png"
+    },
+    {
+        "ID": "1096-4298",
+        "Latest": null,
+        "OEM": "Fabrisonic",
+        "Link": "http://www.fabrisonic.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Ultrasonic Energy Deposition",
+        "Logo": "2023/10/Logo Fabrisonic 20220225.png"
+    },
+    {
+        "ID": "1101-4285",
+        "Latest": null,
+        "OEM": "Farsoon",
+        "Link": "http://www.farsoon.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Farsoon 20220225.png"
+    },
+    {
+        "ID": "1116-4285",
+        "Latest": null,
+        "OEM": "Fonon",
+        "Link": "http://www.fonon.us",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Fonon 20220225.png"
+    },
+    {
+        "ID": "1119-4295",
+        "Latest": null,
+        "OEM": "Formalloy",
+        "Link": "http://www.formalloy.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/Logo Formalloy 20220225.jpg"
+    },
+    {
+        "ID": "1119-4302",
+        "Latest": null,
+        "OEM": "Formalloy",
+        "Link": "http://www.formalloy.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Laser Energy Deposition",
+        "Logo": "2023/10/Logo Formalloy 20220225.jpg"
+    },
+    {
+        "ID": "1124-4283",
+        "Latest": null,
+        "OEM": "Freemelt",
+        "Link": "http://www.freemelt.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Electron Beam Powder Bed Fusion",
+        "Logo": "2023/10/freemelt.png"
+    },
+    {
+        "ID": "1130-4281",
+        "Latest": null,
+        "OEM": "GE Additive",
+        "Link": "http://www.ge.com/additive",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/10/GE_Additive_2018.png"
+    },
+    {
+        "ID": "1130-4283",
+        "Latest": null,
+        "OEM": "GE Additive",
+        "Link": "http://www.ge.com/additive",
+        "Material_Cluster": "Metal",
+        "Technology": "Electron Beam Powder Bed Fusion",
+        "Logo": "2023/10/GE_Additive_2018.png"
+    },
+    {
+        "ID": "1130-4285",
+        "Latest": null,
+        "OEM": "GE Additive",
+        "Link": "http://www.ge.com/additive",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/GE_Additive_2018.png"
+    },
+    {
+        "ID": "1134-4300",
+        "Latest": null,
+        "OEM": "GEFERTEC",
+        "Link": "http://www.gefertec.de",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/10/GEFERTEC_LOGO.png"
+    },
+    {
+        "ID": "1138-4285",
+        "Latest": null,
+        "OEM": "GF Machining Solutions",
+        "Link": "http://www.gfms.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/gf.png"
+    },
+    {
+        "ID": "1153-4288",
+        "Latest": null,
+        "OEM": "Hage3D",
+        "Link": "http://www.hage3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Filament Material Extrusion",
+        "Logo": "2023/10/Logo Hage3D 20220225.png"
+    },
+    {
+        "ID": "1156-4285",
+        "Latest": null,
+        "OEM": "HBD Hanbang 3D",
+        "Link": "http://www.hb3dp.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/hbd.png"
+    },
+    {
+        "ID": "1157-4291",
+        "Latest": null,
+        "OEM": "Headmade Materials",
+        "Link": "http://www.headmade-materials.de",
+        "Material_Cluster": "Metal",
+        "Technology": "Metal Selective Laser Sintering",
+        "Logo": "2023/10/Logo headmade materials 20220225.svg"
+    },
+    {
+        "ID": "1161-4285",
+        "Latest": null,
+        "OEM": "Hengtong",
+        "Link": "http://www.china-rpm.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Hengtong 20220225.png"
+    },
+    {
+        "ID": "1164-4282",
+        "Latest": null,
+        "OEM": "Maschinenfabrik Berthold Hermle",
+        "Link": "http://www.hermle.de",
+        "Material_Cluster": "Metal",
+        "Technology": "Cold Spray",
+        "Logo": "2023/10/0168c873-dee8-4300-a67b-a84a24d8e92c.png"
+    },
+    {
+        "ID": "1170-4289",
+        "Latest": null,
+        "OEM": "Holo",
+        "Link": "https://holoam.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Area-wise Vat Polymerisation",
+        "Logo": "2023/10/Logo Holo - Kopie.png"
+    },
+    {
+        "ID": "1173-4281",
+        "Latest": null,
+        "OEM": "HP",
+        "Link": "http://www8.hp.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/10/Logo HP 20220225.png"
+    },
+    {
+        "ID": "1175-4285",
+        "Latest": null,
+        "OEM": "Huake 3D",
+        "Link": "http://www.huake3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Huake.jpeg"
+    },
+    {
+        "ID": "1177-4295",
+        "Latest": null,
+        "OEM": "Hybrid Manufacturing",
+        "Link": "https://hybridmanutech.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/Logo Hybrid Manufacturing 20220225.png"
+    },
+    {
+        "ID": "1185-4295",
+        "Latest": null,
+        "OEM": "Ibarmia",
+        "Link": "http://www.ibarmia.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/Logo Ibarmia 20221103.svg"
+    },
+    {
+        "ID": "1189-4282",
+        "Latest": null,
+        "OEM": "Impact Innovations",
+        "Link": "http://www.impact-innovations.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Cold Spray",
+        "Logo": "2023/10/Impact-Innovations_Logo-2021.png"
+    },
+    {
+        "ID": "1193-4289",
+        "Latest": null,
+        "OEM": "Incus",
+        "Link": "http://www.incus3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Area-wise Vat Polymerisation",
+        "Logo": "2023/10/Logo Incus 20220225.png"
+    },
+    {
+        "ID": "1197-4295",
+        "Latest": null,
+        "OEM": "Insstek",
+        "Link": "http://www.insstek.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/insstek.png"
+    },
+    {
+        "ID": "1198-4285",
+        "Latest": null,
+        "OEM": "Intech Additive Solutions",
+        "Link": "https://intechadditive.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/intech.png"
+    },
+    {
+        "ID": "1204-4283",
+        "Latest": null,
+        "OEM": "Jeol",
+        "Link": "http://www.jeol.co.jp",
+        "Material_Cluster": "Metal",
+        "Technology": "Electron Beam Powder Bed Fusion",
+        "Logo": "2023/10/Logo Jeol 20220225.png"
+    },
+    {
+        "ID": "1223-4285",
+        "Latest": null,
+        "OEM": "Kurtz Ersa",
+        "Link": "https://www.kurtzersa.de",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Kurtz Ersa 20220225.png"
+    },
+    {
+        "ID": "1227-4285",
+        "Latest": null,
+        "OEM": "Laser Melting Innovations",
+        "Link": "http://www.lm-innovations.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Laser Melting Innovations 20220225.png"
+    },
+    {
+        "ID": "1229-4285",
+        "Latest": null,
+        "OEM": "Laseradd",
+        "Link": "http://www.laseradd.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/laseradd.png"
+    },
+    {
+        "ID": "1229-4295",
+        "Latest": null,
+        "OEM": "Laseradd",
+        "Link": "http://www.laseradd.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/laseradd.png"
+    },
+    {
+        "ID": "1241-4300",
+        "Latest": null,
+        "OEM": "Lincoln Electric",
+        "Link": "http://www.lincolnelectric.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/10/lincoln.png"
+    },
+    {
+        "ID": "1248-4281",
+        "Latest": null,
+        "OEM": "Long Yuan",
+        "Link": "http://www.lyafs.com.cn",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/10/Unbenannt.JPG"
+    },
+    {
+        "ID": "1248-4285",
+        "Latest": null,
+        "OEM": "Long Yuan",
+        "Link": "http://www.lyafs.com.cn",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Unbenannt.JPG"
+    },
+    {
+        "ID": "1248-4295",
+        "Latest": null,
+        "OEM": "Long Yuan",
+        "Link": "http://www.lyafs.com.cn",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/Unbenannt.JPG"
+    },
+    {
+        "ID": "1252-4295",
+        "Latest": null,
+        "OEM": "Lunovu",
+        "Link": "http://www.lunovu.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/lunovu.png"
+    },
+    {
+        "ID": "1263-42158",
+        "Latest": null,
+        "OEM": "Mantle",
+        "Link": "https://www.mantle3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Dispersion Material Extrusion",
+        "Logo": "2023/10/Mantle_Logo_high_res.jpg"
+    },
+    {
+        "ID": "1265-4281",
+        "Latest": null,
+        "OEM": "Markforged",
+        "Link": "http://www.markforged.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/9/logo-black-2000.jpg"
+    },
+    {
+        "ID": "1265-4288",
+        "Latest": null,
+        "OEM": "Markforged",
+        "Link": "http://www.markforged.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Filament Material Extrusion",
+        "Logo": "2023/9/logo-black-2000.jpg"
+    },
+    {
+        "ID": "1269-4285",
+        "Latest": null,
+        "OEM": "Matsuura",
+        "Link": "http://www.matsuura.co.jp",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Matsuura 20220225.png"
+    },
+    {
+        "ID": "1271-4295",
+        "Latest": null,
+        "OEM": "Mazak",
+        "Link": "http://www.mazak.co.jp",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/Logo Mazak 20220228.png"
+    },
+    {
+        "ID": "1271-4300",
+        "Latest": null,
+        "OEM": "Mazak",
+        "Link": "http://www.mazak.co.jp",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/10/Logo Mazak 20220228.png"
+    },
+    {
+        "ID": "1275-4284",
+        "Latest": null,
+        "OEM": "MELD Manufacturing",
+        "Link": "http://www.meldmanufacturing.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Friction Energy Deposition",
+        "Logo": "2023/10/Logo MELD Manufacturing 20220225.png"
+    },
+    {
+        "ID": "1276-4295",
+        "Latest": null,
+        "OEM": "Meltio",
+        "Link": "https://meltio3d.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/Logo Meltio 20220225.svg"
+    },
+    {
+        "ID": "1276-4302",
+        "Latest": null,
+        "OEM": "Meltio",
+        "Link": "https://meltio3d.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Laser Energy Deposition",
+        "Logo": "2023/10/Logo Meltio 20220225.svg"
+    },
+    {
+        "ID": "1278-4281",
+        "Latest": null,
+        "OEM": "Meta Additive",
+        "Link": "https://meta-additive.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/10/meta.png"
+    },
+    {
+        "ID": "1293-4283",
+        "Latest": null,
+        "OEM": "Mitsubishi Electric",
+        "Link": "http://www.mitsubishielectric.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Electron Beam Powder Bed Fusion",
+        "Logo": "2023/10/Logo Mitsubishi Electric 20220225.png"
+    },
+    {
+        "ID": "1293-4302",
+        "Latest": null,
+        "OEM": "Mitsubishi Electric",
+        "Link": "http://www.mitsubishielectric.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Laser Energy Deposition",
+        "Logo": "2023/10/Logo Mitsubishi Electric 20220225.png"
+    },
+    {
+        "ID": "1303-4288",
+        "Latest": null,
+        "OEM": "Multec",
+        "Link": "http://www.multec.de",
+        "Material_Cluster": "Metal",
+        "Technology": "Filament Material Extrusion",
+        "Logo": "2023/10/Logo Multec 20220225.jpg"
+    },
+    {
+        "ID": "1304-4299",
+        "Latest": null,
+        "OEM": "MX3D",
+        "Link": "http://www.mx3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Arc Energy Deposition",
+        "Logo": "2023/10/mx3e.png"
+    },
+    {
+        "ID": "1304-4300",
+        "Latest": null,
+        "OEM": "MX3D",
+        "Link": "http://www.mx3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/10/mx3e.png"
+    },
+    {
+        "ID": "1307-4293",
+        "Latest": null,
+        "OEM": "Nanogrande",
+        "Link": "http://www.nanogrande.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Material Jetting",
+        "Logo": "2023/10/nanogrande.png"
+    },
+    {
+        "ID": "1309-4285",
+        "Latest": null,
+        "OEM": "NIIAM",
+        "Link": "http://www.niiam.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Niiam 20220225.png"
+    },
+    {
+        "ID": "1312-4303",
+        "Latest": null,
+        "OEM": "Norsk Titanium",
+        "Link": "http://www.norsktitanium.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Plasma Arc Energy Deposition",
+        "Logo": "2023/10/norsk_(2).png"
+    },
+    {
+        "ID": "1314-4285",
+        "Latest": null,
+        "OEM": "Noura",
+        "Link": "http://www.noura3dp.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Noura 20220225.png"
+    },
+    {
+        "ID": "1314-4295",
+        "Latest": null,
+        "OEM": "Noura",
+        "Link": "http://www.noura3dp.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/Logo Noura 20220225.png"
+    },
+    {
+        "ID": "1325-4285",
+        "Latest": null,
+        "OEM": "One Click Metal",
+        "Link": "http://www.oneclickmetal.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Unbenannt_2.png"
+    },
+    {
+        "ID": "1326-4285",
+        "Latest": null,
+        "OEM": "Open Additive",
+        "Link": "http://www.openadditive.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/open additive.png"
+    },
+    {
+        "ID": "1327-4288",
+        "Latest": null,
+        "OEM": "Opiliones",
+        "Link": "http://www.opiliones.nl",
+        "Material_Cluster": "Metal",
+        "Technology": "Filament Material Extrusion",
+        "Logo": "2023/10/Logo Opiliones 20220228.png"
+    },
+    {
+        "ID": "1328-4285",
+        "Latest": null,
+        "OEM": "OPM Lab",
+        "Link": "http://www.opmlab.net",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo OPM Lab 20220225.png"
+    },
+    {
+        "ID": "1331-4295",
+        "Latest": null,
+        "OEM": "Optomec",
+        "Link": "http://www.optomec.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/optomec.png"
+    },
+    {
+        "ID": "1339-4290",
+        "Latest": null,
+        "OEM": "pollen",
+        "Link": "http://www.pollen.am",
+        "Material_Cluster": "Metal",
+        "Technology": "Pellet Material Extrusion",
+        "Logo": "2023/10/pollen.png"
+    },
+    {
+        "ID": "1350-4285",
+        "Latest": null,
+        "OEM": "Prima Additive",
+        "Link": "http://www.primaadditive.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/prima.png"
+    },
+    {
+        "ID": "1350-4295",
+        "Latest": null,
+        "OEM": "Prima Additive",
+        "Link": "http://www.primaadditive.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/prima.png"
+    },
+    {
+        "ID": "1352-4283",
+        "Latest": null,
+        "OEM": "pro-beam",
+        "Link": "https://www.pro-beam.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Electron Beam Powder Bed Fusion",
+        "Logo": "2023/10/logo pro-beam 20220225.svg"
+    },
+    {
+        "ID": "1352-4301",
+        "Latest": null,
+        "OEM": "pro-beam",
+        "Link": "https://www.pro-beam.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electron Beam Energy Deposition",
+        "Logo": "2023/10/logo pro-beam 20220225.svg"
+    },
+    {
+        "ID": "1354-4300",
+        "Latest": null,
+        "OEM": "Prodways",
+        "Link": "http://www.prodways.com/en",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/10/Logo Prodways 20220228.png"
+    },
+    {
+        "ID": "1367-4283",
+        "Latest": null,
+        "OEM": "Quickbeam",
+        "Link": "http://www.qbeam-3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Electron Beam Powder Bed Fusion",
+        "Logo": "2023/10/logo-fixed.png"
+    },
+    {
+        "ID": "1373-42158",
+        "Latest": null,
+        "OEM": "Rapidia",
+        "Link": "http://www.rapidia.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Dispersion Material Extrusion",
+        "Logo": "2023/10/Logo Rapidia 20220225.png"
+    },
+    {
+        "ID": "1375-4285",
+        "Latest": null,
+        "OEM": "Raycham",
+        "Link": "http://www.raycham.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/logo.png"
+    },
+    {
+        "ID": "1375-4295",
+        "Latest": null,
+        "OEM": "Raycham",
+        "Link": "http://www.raycham.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/logo.png"
+    },
+    {
+        "ID": "1375-4300",
+        "Latest": null,
+        "OEM": "Raycham",
+        "Link": "http://www.raycham.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/10/logo.png"
+    },
+    {
+        "ID": "1382-4285",
+        "Latest": null,
+        "OEM": "Renishaw",
+        "Link": "http://www.renishaw.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Renishaw 20220225.png"
+    },
+    {
+        "ID": "1386-4285",
+        "Latest": null,
+        "OEM": "Riton",
+        "Link": "https://www.riton3dprinter.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/riton.png"
+    },
+    {
+        "ID": "1391-4295",
+        "Latest": null,
+        "OEM": "Romi",
+        "Link": "https://www.romi.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/romi.png"
+    },
+    {
+        "ID": "1396-4295",
+        "Latest": null,
+        "OEM": "RPM Innovations",
+        "Link": "http://www.rpm-innovations.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/rpm.png"
+    },
+    {
+        "ID": "1399-4301",
+        "Latest": null,
+        "OEM": "Ruselectronics",
+        "Link": "http://www.ruselectronics.ru",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electron Beam Energy Deposition",
+        "Logo": "2023/10/rus.png"
+    },
+    {
+        "ID": "1400-4285",
+        "Latest": null,
+        "OEM": "Russian 3D Printers",
+        "Link": "http://www.3dsla.ru",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/logo Russian 3D Printers 20220225.png"
+    },
+    {
+        "ID": "1404-4283",
+        "Latest": null,
+        "OEM": "Sailong Metal",
+        "Link": "http://www.slmetal.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Electron Beam Powder Bed Fusion",
+        "Logo": "2023/10/Logo Sailong Metal 20220225.jpg"
+    },
+    {
+        "ID": "1405-4285",
+        "Latest": null,
+        "OEM": "Samylabs",
+        "Link": "http://www.samylabs.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/samylabs.png"
+    },
+    {
+        "ID": "1408-4303",
+        "Latest": null,
+        "OEM": "SBI",
+        "Link": "http://www.sbi.at",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Plasma Arc Energy Deposition",
+        "Logo": "2023/10/Logo SBI 20221103.png"
+    },
+    {
+        "ID": "1416-4301",
+        "Latest": null,
+        "OEM": "Sciaky",
+        "Link": "http://www.sciaky.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electron Beam Energy Deposition",
+        "Logo": "2023/10/sciaky.png"
+    },
+    {
+        "ID": "1421-4285",
+        "Latest": null,
+        "OEM": "Sentrol",
+        "Link": "http://www.sentrol.net",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/201901230525191731434994.jpg"
+    },
+    {
+        "ID": "1422-4280",
+        "Latest": null,
+        "OEM": "Seurat Technologies",
+        "Link": "https://www.seuratech.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Area-wise Laser Beam Powder Bed Fusion",
+        "Logo": "2023/10/_seurat__LOGO_COLOR_01052022.png"
+    },
+    {
+        "ID": "1424-4285",
+        "Latest": null,
+        "OEM": "Sharebot",
+        "Link": "http://www.sharebot.it",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Sharebot 2022025.jpg"
+    },
+    {
+        "ID": "1434-4285",
+        "Latest": null,
+        "OEM": "Sisma",
+        "Link": "http://www.sisma.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Sisma 20220225.png"
+    },
+    {
+        "ID": "1440-4285",
+        "Latest": null,
+        "OEM": "Nikon SLM Solutions",
+        "Link": "https://nikon-slm-solutions.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo SLM Solutions 20220225.png"
+    },
+    {
+        "ID": "1441-4285",
+        "Latest": null,
+        "OEM": "Sodick Deutschland",
+        "Link": "http://www.sodick.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Sodick 20220225_(2).png"
+    },
+    {
+        "ID": "1444-4285",
+        "Latest": null,
+        "OEM": "SondaSys",
+        "Link": "http://www.sondasys.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo SondaSys 20220225.png"
+    },
+    {
+        "ID": "1446-4282",
+        "Latest": null,
+        "OEM": "SPEE3D",
+        "Link": "http://www.spee3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Cold Spray",
+        "Logo": "2023/10/Logo Spee3D 20220225.jpg"
+    },
+    {
+        "ID": "1452-4296",
+        "Latest": null,
+        "OEM": "Stratasys",
+        "Link": "http://www.stratasys.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Metallurgy Jetting",
+        "Logo": "2023/10/ssys_logo_symbol_typemark_reg_rgb_svg.svg"
+    },
+    {
+        "ID": "1456-4295",
+        "Latest": null,
+        "OEM": "Sugino",
+        "Link": "http://www.suginocorp.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/Logo Sugino 20220225.png"
+    },
+    {
+        "ID": "1459-4285",
+        "Latest": null,
+        "OEM": "Syndaya",
+        "Link": "http://www.syndaya.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/sendaya.png"
+    },
+    {
+        "ID": "1462-4285",
+        "Latest": null,
+        "OEM": "Techgine",
+        "Link": "http://www.techgine-3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Techgine 20220225.png"
+    },
+    {
+        "ID": "1466-4288",
+        "Latest": null,
+        "OEM": "The Virtual Foundry",
+        "Link": "http://www.thevirtualfoundry.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Filament Material Extrusion",
+        "Logo": "2023/10/The_Virtual_Foundry-01_2.png"
+    },
+    {
+        "ID": "1469-4285",
+        "Latest": null,
+        "OEM": "Tianjin Radium Laser Technologies",
+        "Link": "http://www.en.lmjg-tj.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Tianjin Radium Laser Technologies 20220225.png"
+    },
+    {
+        "ID": "1470-4282",
+        "Latest": null,
+        "OEM": "Titomic",
+        "Link": "http://www.titomic.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Cold Spray",
+        "Logo": "2023/10/titomic.png"
+    },
+    {
+        "ID": "1473-4285",
+        "Latest": null,
+        "OEM": "Tongtai",
+        "Link": "http://www.tongtai.com.tw",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/tongtai.png"
+    },
+    {
+        "ID": "1473-4295",
+        "Latest": null,
+        "OEM": "Tongtai",
+        "Link": "http://www.tongtai.com.tw",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/tongtai.png"
+    },
+    {
+        "ID": "1477-4281",
+        "Latest": null,
+        "OEM": "Triditive",
+        "Link": "http://www.triditive.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/10/triditive.png"
+    },
+    {
+        "ID": "1477-4288",
+        "Latest": null,
+        "OEM": "Triditive",
+        "Link": "http://www.triditive.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Filament Material Extrusion",
+        "Logo": "2023/10/triditive.png"
+    },
+    {
+        "ID": "1477-4290",
+        "Latest": null,
+        "OEM": "Triditive",
+        "Link": "http://www.triditive.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Pellet Material Extrusion",
+        "Logo": "2023/10/triditive.png"
+    },
+    {
+        "ID": "1478-4292",
+        "Latest": null,
+        "OEM": "Tritone",
+        "Link": "http://www.tritoneam.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Mold Slurry Deposition",
+        "Logo": "2023/10/Logo Tritone 20220225.png"
+    },
+    {
+        "ID": "1481-4285",
+        "Latest": null,
+        "OEM": "Trumpf",
+        "Link": "http://www.trumpf.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Trumpf 20220225.png"
+    },
+    {
+        "ID": "1481-4295",
+        "Latest": null,
+        "OEM": "Trumpf",
+        "Link": "http://www.trumpf.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/Logo Trumpf 20220225.png"
+    },
+    {
+        "ID": "1484-4285",
+        "Latest": null,
+        "OEM": "TYTUS3D",
+        "Link": "http://www.tytus3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/tytus.png"
+    },
+    {
+        "ID": "1489-4286",
+        "Latest": null,
+        "OEM": "ValCUN",
+        "Link": "http://www.valcun.be",
+        "Material_Cluster": "Metal",
+        "Technology": "Liquid Metal Printing",
+        "Logo": "2023/10/Logo ValCUN 20220225.png"
+    },
+    {
+        "ID": "1494-4285",
+        "Latest": null,
+        "OEM": "Velo3D",
+        "Link": "http://www.velo3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Velo3D 20220225.png"
+    },
+    {
+        "ID": "1501-4285",
+        "Latest": null,
+        "OEM": "VULCANTECH",
+        "Link": "http://www.vulcan-3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Vulcantech 20220225.png"
+    },
+    {
+        "ID": "1502-4303",
+        "Latest": null,
+        "OEM": "WAAM",
+        "Link": "http://www.waammat.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Plasma Arc Energy Deposition",
+        "Logo": "2023/10/Logo WAAM 20220228.png"
+    },
+    {
+        "ID": "1509-4283",
+        "Latest": null,
+        "OEM": "Wayland Additive",
+        "Link": "http://www.waylandadditive.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Electron Beam Powder Bed Fusion",
+        "Logo": "2023/10/oenyjrppbprcku5onriz.png"
+    },
+    {
+        "ID": "1510-4284",
+        "Latest": null,
+        "OEM": "J.G. WEISSER S\u00d6HNE",
+        "Link": "http://www.weisser-web.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Friction Energy Deposition",
+        "Logo": "2023/10/WEISSER-Logo_AHC-2022.svg"
+    },
+    {
+        "ID": "1511-4285",
+        "Latest": null,
+        "OEM": "Wiiboox",
+        "Link": "http://www.wiiboox.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Wiiboox 20220225.png"
+    },
+    {
+        "ID": "1512-4285",
+        "Latest": null,
+        "OEM": "Winforsys",
+        "Link": "http://www.winforsys.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Winforsys 20220225.png"
+    },
+    {
+        "ID": "1517-4285",
+        "Latest": null,
+        "OEM": "Xact Metal",
+        "Link": "http://www.xactmetal.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Xact-Metal_Logo_Gradient_2c_CMYK-scaled.jpg"
+    },
+    {
+        "ID": "1518-4285",
+        "Latest": null,
+        "OEM": "XDM 3D Printing Technology",
+        "Link": "https://www.xdm3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo XDM 3D Printing Technology 20220225.png"
+    },
+    {
+        "ID": "1519-4288",
+        "Latest": null,
+        "OEM": "XERION BERLIN LABORATORIES",
+        "Link": "http://www.xerion.de",
+        "Material_Cluster": "Metal",
+        "Technology": "Filament Material Extrusion",
+        "Logo": "2023/10/logoXERION-BERLIN-LABORATORIES-GmbH-176610DE-2007081117.png"
+    },
+    {
+        "ID": "1521-4301",
+        "Latest": null,
+        "OEM": "Xi'an ZhiRong",
+        "Link": null,
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electron Beam Energy Deposition",
+        "Logo": null
+    },
+    {
+        "ID": "1522-4285",
+        "Latest": null,
+        "OEM": "Xi'an Bright Laser Technologies (BLT)",
+        "Link": "https://www.xa-blt.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/9/logo.svg"
+    },
+    {
+        "ID": "1522-4295",
+        "Latest": null,
+        "OEM": "Xi'an Bright Laser Technologies (BLT)",
+        "Link": "https://www.xa-blt.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/9/logo.svg"
+    },
+    {
+        "ID": "1523-4293",
+        "Latest": null,
+        "OEM": "Xjet",
+        "Link": "http://www.xjet3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Material Jetting",
+        "Logo": "2023/10/Logo XJet 20220225.png"
+    },
+    {
+        "ID": "1526-4285",
+        "Latest": null,
+        "OEM": "Yibo 3D",
+        "Link": "http://www.yibo3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/normal_05eafeaa7d560b68.png"
+    },
+    {
+        "ID": "1527-4285",
+        "Latest": null,
+        "OEM": "Yongnian",
+        "Link": "http://en.ynamt.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Yongnian 20220228.png"
+    },
+    {
+        "ID": "1527-4294",
+        "Latest": null,
+        "OEM": "Yongnian",
+        "Link": "http://en.ynamt.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Other Metal",
+        "Logo": "2023/10/Logo Yongnian 20220228.png"
+    },
+    {
+        "ID": "1527-4295",
+        "Latest": null,
+        "OEM": "Yongnian",
+        "Link": "http://en.ynamt.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/Logo Yongnian 20220228.png"
+    },
+    {
+        "ID": "1533-4285",
+        "Latest": null,
+        "OEM": "ZRapid Technologies",
+        "Link": "http://www.zero-tek.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo ZRapid Technologies 20220225.png"
+    },
+    {
+        "ID": "1534-4285",
+        "Latest": null,
+        "OEM": "Zuhai CTC Electronic",
+        "Link": "http://www.ctcprinter.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Zuhai CTC Electronic 20220225.png"
+    },
+    {
+        "ID": "1542-4286",
+        "Latest": null,
+        "OEM": "GROB-WERKE",
+        "Link": "https://www.grobgroup.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Liquid Metal Printing",
+        "Logo": "2023/10/grob_logo.svg"
+    },
+    {
+        "ID": "1546-4281",
+        "Latest": null,
+        "OEM": "EASYMFG",
+        "Link": "http://en.easy3dmade.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/10/logo (2).png"
+    },
+    {
+        "ID": "1549-4302",
+        "Latest": null,
+        "OEM": "Procada",
+        "Link": "https://procada.se/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Laser Energy Deposition",
+        "Logo": "2023/10/procada.png"
+    },
+    {
+        "ID": "1557-4288",
+        "Latest": null,
+        "OEM": "3ntr",
+        "Link": "https://3ntr.net/",
+        "Material_Cluster": "Metal",
+        "Technology": "Filament Material Extrusion",
+        "Logo": "2023/10/3ntr.png"
+    },
+    {
+        "ID": "1646-4285",
+        "Latest": null,
+        "OEM": "Kings 3D PrintingTechnology",
+        "Link": "https://www.kings3dprinter.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/logo.jpg"
+    },
+    {
+        "ID": "1670-4300",
+        "Latest": null,
+        "OEM": "Metrom",
+        "Link": "https://metrom.com/de/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/10/metrom.png"
+    },
+    {
+        "ID": "1700-4288",
+        "Latest": null,
+        "OEM": "Raise 3D",
+        "Link": "https://www.raise3d.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Filament Material Extrusion",
+        "Logo": "2023/10/logo-with-slogan-color-on-transparent-1024x302.png"
+    },
+    {
+        "ID": "1706-4281",
+        "Latest": null,
+        "OEM": "Ricoh",
+        "Link": "https://www.ricoh.de/",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/10/Logo Ricoh 20220225.png"
+    },
+    {
+        "ID": "1739-4285",
+        "Latest": null,
+        "OEM": "UnionTech",
+        "Link": "https://uniontech3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/uniontech-3d-printer-logo-tm_866.png"
+    },
+    {
+        "ID": "1758-4285",
+        "Latest": null,
+        "OEM": "amace",
+        "Link": "https://www.am-ace.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/amace.png"
+    },
+    {
+        "ID": "1759-4280",
+        "Latest": null,
+        "OEM": "VulcanForms",
+        "Link": "https://www.vulcanforms.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Area-wise Laser Beam Powder Bed Fusion",
+        "Logo": "2023/10/Logo VulcanForms 20221107.png"
+    },
+    {
+        "ID": "1761-4288",
+        "Latest": null,
+        "OEM": "Metallum3D",
+        "Link": "https://www.metallum3d.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Filament Material Extrusion",
+        "Logo": "2023/10/metallum_logo_side_tet_revised_october.png"
+    },
+    {
+        "ID": "2025-4290",
+        "Latest": null,
+        "OEM": "Epeire 3D",
+        "Link": "https://epeire3d.com/en/",
+        "Material_Cluster": "Metal",
+        "Technology": "Pellet Material Extrusion",
+        "Logo": "2023/10/epeire.png"
+    },
+    {
+        "ID": "2047-4300",
+        "Latest": null,
+        "OEM": "Fronius India",
+        "Link": "https://www.fronius.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/10/20130313101307!Fronius_International_logo.svg"
+    },
+    {
+        "ID": "2051-4282",
+        "Latest": null,
+        "OEM": "Plasma",
+        "Link": "http://www.plasma.co.jp/en/",
+        "Material_Cluster": "Metal",
+        "Technology": "Cold Spray",
+        "Logo": "2023/10/Logo Plasma 20220228.jpg"
+    },
+    {
+        "ID": "2052-4302",
+        "Latest": null,
+        "OEM": "Nidec Machine Tool Corporation",
+        "Link": "https://www.nidec.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Laser Energy Deposition",
+        "Logo": "2023/11/NIDEC_(3).png"
+    },
+    {
+        "ID": "2053-4301",
+        "Latest": null,
+        "OEM": "DMAMS",
+        "Link": "http://www.dmams.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electron Beam Energy Deposition",
+        "Logo": "2023/10/Logo DMAMS 20220228.png"
+    },
+    {
+        "ID": "2065-4302",
+        "Latest": null,
+        "OEM": "Oscar PLT",
+        "Link": "https://oscar-plt.de/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Laser Energy Deposition",
+        "Logo": "2023/10/Logo Oscar PLT 20230222.png"
+    },
+    {
+        "ID": "2079-4283",
+        "Latest": null,
+        "OEM": "ALD Vacuum Technologies",
+        "Link": "https://www.ald-vt.com/de/",
+        "Material_Cluster": "Metal",
+        "Technology": "Electron Beam Powder Bed Fusion",
+        "Logo": "2023/10/Logo ALD Vacuum Technologies 20230222.jpg"
+    },
+    {
+        "ID": "2172-4300",
+        "Latest": null,
+        "OEM": "RAMLAB",
+        "Link": "https://www.ramlab.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/10/Logo RAMLAB 20230222.png"
+    },
+    {
+        "ID": "2178-4285",
+        "Latest": null,
+        "OEM": "Merain",
+        "Link": "https://merain.kr/",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo merain 20221103.png"
+    },
+    {
+        "ID": "2180-4281",
+        "Latest": null,
+        "OEM": "CONCR3DE",
+        "Link": "https://concr3de.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/10/logo (1).png"
+    },
+    {
+        "ID": "2198-4295",
+        "Latest": null,
+        "OEM": "Nikon",
+        "Link": "https://www.nikon.com/products/optical-processing-machine/",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/Logo Nikon 20230222.svg"
+    },
+    {
+        "ID": "2202-4300",
+        "Latest": null,
+        "OEM": "Nanjing Enigma Automation",
+        "Link": "https://www.enigma-am.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/11/enigma-logo.png"
+    },
+    {
+        "ID": "2208-4281",
+        "Latest": null,
+        "OEM": "Sinterjet",
+        "Link": "https://sinterjet.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/10/Logo Sinterjet 20230222.png"
+    },
+    {
+        "ID": "2210-4285",
+        "Latest": null,
+        "OEM": "NPPower",
+        "Link": "https://nppower.eu/",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/nppower.png"
+    },
+    {
+        "ID": "2211-4303",
+        "Latest": null,
+        "OEM": "AlloyAdditive",
+        "Link": "https://alloyadditive.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Plasma Arc Energy Deposition",
+        "Logo": "2023/10/Logo alloyadditive 20230222.svg"
+    },
+    {
+        "ID": "2250-4301",
+        "Latest": null,
+        "OEM": "Big Metal Additive (BMA)",
+        "Link": "https://bigmetaladditive.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electron Beam Energy Deposition",
+        "Logo": "2023/10/bma.png"
+    },
+    {
+        "ID": "2259-4285",
+        "Latest": null,
+        "OEM": "Topmetal3d",
+        "Link": "https://www.topmetal3d.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo TopMetal3d 20230222.png"
+    },
+    {
+        "ID": "2291-4281",
+        "Latest": null,
+        "OEM": "B-JETTING",
+        "Link": "https://b-jetting.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/10/Logo B-JETTING 20230306.png"
+    },
+    {
+        "ID": "2314-4295",
+        "Latest": null,
+        "OEM": "Amfree",
+        "Link": "https://amfree.eu/",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/11/AMFREE-LOGO.png"
+    },
+    {
+        "ID": "2314-4302",
+        "Latest": null,
+        "OEM": "Amfree",
+        "Link": "https://amfree.eu/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Laser Energy Deposition",
+        "Logo": "2023/11/AMFREE-LOGO.png"
+    },
+    {
+        "ID": "2367-4285",
+        "Latest": null,
+        "OEM": "2onelab",
+        "Link": "https://2onelab.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/2onelab.png"
+    },
+    {
+        "ID": "24426-4300",
+        "Latest": null,
+        "OEM": "VLM Robotics",
+        "Link": "http://www.vlm-robotics.fr/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/10/Logo VLM Robotics 20221103.jpg"
+    },
+    {
+        "ID": "24443-4300",
+        "Latest": null,
+        "OEM": "MetalWorm",
+        "Link": "https://www.metalworm.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/10/metalworm.png"
+    },
+    {
+        "ID": "24671-4300",
+        "Latest": null,
+        "OEM": "Rongsu Technology",
+        "Link": "https://www.rongsu.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/11/AMmake black logo.png"
+    },
+    {
+        "ID": "41767-4290",
+        "Latest": null,
+        "OEM": "Uprise3D",
+        "Link": "https://www.uprise3d.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Pellet Material Extrusion",
+        "Logo": "2023/10/1587047936523.jpeg"
+    },
+    {
+        "ID": "41819-4281",
+        "Latest": null,
+        "OEM": "KOCEL",
+        "Link": "https://www.kocel.com/?_l=en",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/10/veq6.png"
+    },
+    {
+        "ID": "41951-4285",
+        "Latest": null,
+        "OEM": "SFS",
+        "Link": "http://sfsystems.co.kr/eng",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/0a5017e2ea99bd2bd12c0b09250c2f8f1f08_(4).jpg"
+    },
+    {
+        "ID": "42086-4285",
+        "Latest": null,
+        "OEM": "Veltz",
+        "Link": "https://www.veltz3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Veltz.png"
+    },
+    {
+        "ID": "42129-4281",
+        "Latest": null,
+        "OEM": "Addimetal",
+        "Link": "https://www.addimetal.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/11/LOGO_addimetal_200X32px_FULLBLACK.svg"
+    },
+    {
+        "ID": "42932-4295",
+        "Latest": null,
+        "OEM": "M2NXT",
+        "Link": "https://www.m2nxt.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": null
+    },
+    {
+        "ID": "42932-4302",
+        "Latest": null,
+        "OEM": "M2NXT",
+        "Link": "https://www.m2nxt.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Laser Energy Deposition",
+        "Logo": null
+    },
+    {
+        "ID": "42981-4285",
+        "Latest": null,
+        "OEM": "AVIMETAL AM",
+        "Link": "https://www.avimetalam.com/en/",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": null
+    },
+    {
+        "ID": "44728-4302",
+        "Latest": null,
+        "OEM": "Permanova Lasersystem",
+        "Link": "https://www.permanova.se/",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Laser Energy Deposition",
+        "Logo": "2023/11/Permanova-GKN-Aerospace-Horizontal-Green.png"
+    },
+    {
+        "ID": "882-4282",
+        "Latest": null,
+        "OEM": "3D Hybrid Solutions",
+        "Link": "http://www.3dhybridsolutions.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Cold Spray",
+        "Logo": "2023/10/3dhybrid.png"
+    },
+    {
+        "ID": "882-4295",
+        "Latest": null,
+        "OEM": "3D Hybrid Solutions",
+        "Link": "http://www.3dhybridsolutions.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/3dhybrid.png"
+    },
+    {
+        "ID": "882-4300",
+        "Latest": null,
+        "OEM": "3D Hybrid Solutions",
+        "Link": "http://www.3dhybridsolutions.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/10/3dhybrid.png"
+    },
+    {
+        "ID": "882-4302",
+        "Latest": null,
+        "OEM": "3D Hybrid Solutions",
+        "Link": "http://www.3dhybridsolutions.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Laser Energy Deposition",
+        "Logo": "2023/10/3dhybrid.png"
+    },
+    {
+        "ID": "886-4285",
+        "Latest": null,
+        "OEM": "3D micro PRINT",
+        "Link": "https://www.3dmicroprint.com/",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/3d-microprint-logo-400x123.png"
+    },
+    {
+        "ID": "890-4285",
+        "Latest": null,
+        "OEM": "3D Systems",
+        "Link": "http://www.3dsystems.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/3d-systems-vector-logo.png"
+    },
+    {
+        "ID": "890-4295",
+        "Latest": null,
+        "OEM": "3D Systems",
+        "Link": "http://www.3dsystems.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/3d-systems-vector-logo.png"
+    },
+    {
+        "ID": "891-4285",
+        "Latest": null,
+        "OEM": "3D4Steel",
+        "Link": "http://www.3d4steel.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo 3D4Steel 20220225.png"
+    },
+    {
+        "ID": "893-4281",
+        "Latest": null,
+        "OEM": "3DEO",
+        "Link": "http://www.3deo.co",
+        "Material_Cluster": "Metal",
+        "Technology": "Binder Jetting",
+        "Logo": "2023/10/Logo 3DEO.png"
+    },
+    {
+        "ID": "899-4285",
+        "Latest": null,
+        "OEM": "3D-Mectronic",
+        "Link": "http://www.3d-mectronic.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/mectronic.png"
+    },
+    {
+        "ID": "901-4285",
+        "Latest": null,
+        "OEM": "3D-Micromac",
+        "Link": "http://www.3d-micromac.de",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/micro.png"
+    },
+    {
+        "ID": "914-4285",
+        "Latest": null,
+        "OEM": "Aconity3D",
+        "Link": "http://www.aconity3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Aconity 3D 20220225.png"
+    },
+    {
+        "ID": "914-4302",
+        "Latest": null,
+        "OEM": "Aconity3D",
+        "Link": "http://www.aconity3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Laser Energy Deposition",
+        "Logo": "2023/10/Logo Aconity 3D 20220225.png"
+    },
+    {
+        "ID": "915-4285",
+        "Latest": null,
+        "OEM": "ADC Aeroswift",
+        "Link": "http://www.aeroswift.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo ADC Aeroswift 20220225.png"
+    },
+    {
+        "ID": "917-4302",
+        "Latest": null,
+        "OEM": "ADDere",
+        "Link": "http://www.addere.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Laser Energy Deposition",
+        "Logo": "2023/10/addere.png"
+    },
+    {
+        "ID": "918-4303",
+        "Latest": null,
+        "OEM": "Addil\u00e1n",
+        "Link": "http://www.addilan.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Plasma Arc Energy Deposition",
+        "Logo": "2023/10/Logo Addil\u00e1n 20220228.png"
+    },
+    {
+        "ID": "920-4286",
+        "Latest": null,
+        "OEM": "Additec",
+        "Link": "https://additec3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Liquid Metal Printing",
+        "Logo": "2023/10/additec.png"
+    },
+    {
+        "ID": "920-4295",
+        "Latest": null,
+        "OEM": "Additec",
+        "Link": "https://additec3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/additec.png"
+    },
+    {
+        "ID": "920-4298",
+        "Latest": null,
+        "OEM": "Additec",
+        "Link": "https://additec3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Ultrasonic Energy Deposition",
+        "Logo": "2023/10/additec.png"
+    },
+    {
+        "ID": "920-4302",
+        "Latest": null,
+        "OEM": "Additec",
+        "Link": "https://additec3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Laser Energy Deposition",
+        "Logo": "2023/10/additec.png"
+    },
+    {
+        "ID": "922-4285",
+        "Latest": null,
+        "OEM": "Additive Industries",
+        "Link": "http://www.additiveindustries.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Additive Industries 20220225.png"
+    },
+    {
+        "ID": "923-4285",
+        "Latest": null,
+        "OEM": "Additive Laser Technology",
+        "Link": "http://www.alt-print.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/additive.png"
+    },
+    {
+        "ID": "927-4285",
+        "Latest": null,
+        "OEM": "Addsol",
+        "Link": "http://www.addsol.tech",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Addsol 20220228.png"
+    },
+    {
+        "ID": "928-4285",
+        "Latest": null,
+        "OEM": "AddUp",
+        "Link": "http://www.addupsolutions.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/addup.png"
+    },
+    {
+        "ID": "928-4295",
+        "Latest": null,
+        "OEM": "AddUp",
+        "Link": "http://www.addupsolutions.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/addup.png"
+    },
+    {
+        "ID": "930-4285",
+        "Latest": null,
+        "OEM": "Adira",
+        "Link": "http://www.adira.pt",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/adira.png"
+    },
+    {
+        "ID": "931-4285",
+        "Latest": null,
+        "OEM": "Aditiv Solutions",
+        "Link": "http://www.aditiv.solutions",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Aditiv Solutions 20220228.png"
+    },
+    {
+        "ID": "933-4289",
+        "Latest": null,
+        "OEM": "Admatec",
+        "Link": "http://www.admateceurope.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Area-wise Vat Polymerisation",
+        "Logo": "2023/10/admatec.png"
+    },
+    {
+        "ID": "942-4290",
+        "Latest": null,
+        "OEM": "Aim3D",
+        "Link": "http://www.aim3d.de",
+        "Material_Cluster": "Metal",
+        "Technology": "Pellet Material Extrusion",
+        "Logo": "2023/10/Logo Aim3D 20220225.png"
+    },
+    {
+        "ID": "949-4285",
+        "Latest": null,
+        "OEM": "Alkimat",
+        "Link": "http://www.alkimat.com.br",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/alkimat.png"
+    },
+    {
+        "ID": "950-4285",
+        "Latest": null,
+        "OEM": "Alpha Laser",
+        "Link": "http://www.alphalaser.de",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/alpha.png"
+    },
+    {
+        "ID": "950-4295",
+        "Latest": null,
+        "OEM": "Alpha Laser",
+        "Link": "http://www.alphalaser.de",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/alpha.png"
+    },
+    {
+        "ID": "959-4300",
+        "Latest": null,
+        "OEM": "AML3D",
+        "Link": "http://www.aml3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Wire Electric Arc Energy Deposition",
+        "Logo": "2023/10/aml3d.png"
+    },
+    {
+        "ID": "961-4285",
+        "Latest": null,
+        "OEM": "AmPro Innovations",
+        "Link": "http://www.amprogroup.com.au",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/ampro.png"
+    },
+    {
+        "ID": "966-4288",
+        "Latest": null,
+        "OEM": "Apium Additive Technologies",
+        "Link": "http://www.apiumtec.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Filament Material Extrusion",
+        "Logo": "2023/10/Logo Apium Additive Technologies 20220225.png"
+    },
+    {
+        "ID": "973-4285",
+        "Latest": null,
+        "OEM": "Aspect",
+        "Link": "http://www.aspect.jpn.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/Logo Aspect 20220225.png"
+    },
+    {
+        "ID": "979-4285",
+        "Latest": null,
+        "OEM": "Aurora Labs",
+        "Link": "http://www.auroralabs3d.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/aurora.png"
+    },
+    {
+        "ID": "993-4295",
+        "Latest": null,
+        "OEM": "BeAM",
+        "Link": "http://www.beam-machines.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Powder Laser Energy Deposition",
+        "Logo": "2023/10/Blk-BeAM-Full-Logo---AAC.png"
+    },
+    {
+        "ID": "997-4285",
+        "Latest": null,
+        "OEM": "Binhu",
+        "Link": "http://www.binhurp.com",
+        "Material_Cluster": "Metal",
+        "Technology": "Laser Powder Bed Fusion",
+        "Logo": "2023/10/l_89312654d74c8c7e9d7bfc4355ccc530.jpg"
+    }
+]

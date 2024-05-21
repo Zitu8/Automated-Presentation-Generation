@@ -1,0 +1,9 @@
+
+Updating the Charts....
+['Area-wise Film Polymerization', 'Other Polymer', 'Area-wise Vat Polymerization', 'VAT Polymerization', 'Volumetric VAT Polymerization', 'Material Jetting', 'Thermoset Deposition', 'Continuous Fiber Thermoset Deposition', 'Elastomer Deposition', 'Vat Vulcanization', 'Continuous Fiber Sheet Lamination', 'Electro Photographic Based Sheet Lamination', 'Thermal Powder Bed Fusion', 'Laser Powder Bed Fusion', 'Continuous Fiber Thermoplastic Deposition', 'Continuous Fiber Material Extrusion', 'Filament Based Material Extrusion', 'Pellet Based Material Extrusion']
+Feedstock chart data for Polymer: {'Liquid - Thermoset': 7, 'Other - Unknown': 1, 'Liquid - Elastomer': 2, 'Sheet - Thermoplastic': 2, 'Powder - Thermoplastic': 2, 'Tape - Thermoplastic': 1, 'Filament - Thermoplastic': 2, 'Pellets - Thermoplastic': 1}
+Polymer material detected - fs_process chart will not be updated.
+Creating the presentation.... 
+
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Polymer Map Round 2023-11-09_14-31.pptx
