@@ -1,0 +1,33 @@
+
+Updating the Charts....
+Chart moved to: x=10.313808333333334 cm, y=1.6143916666666667 cm
+Chart moved to: x=18.582752777777777 cm, y=9.882372222222223 cm
+Chart moved to: x=19.72441111111111 cm, y=11.024030555555555 cm
+Chart moved to: x=19.72441111111111 cm, y=11.024030555555555 cm
+Sorted Feedstock chart data for Polymer: 'Liquid': 7, 'Liquid': 2, 'Sheet': 1, 'Powder': 3, 'Tape': 1, 'Filament': 2, 'Pellets': 1
+Polymer material detected - fs_process chart has been removed.
+
+Creating the presentation.... 
+for 0 r 16.5 mod 0.8584999999999999 rc 17.78775
+for 1 r 16.5 mod 0.8584999999999999 rc 16.5
+for 2 r 16.5 mod 0.8584999999999999 rc 15.6415
+for 3 r 16.5 mod 0.8584999999999999 rc 14.783000000000001
+for 4 r 16.5 mod 0.8584999999999999 rc 13.924500000000002
+for 5 r 16.5 mod 0.8584999999999999 rc 14.783000000000001
+for 6 r 16.5 mod 0.8584999999999999 rc 15.6415
+for 7 r 16.5 mod 0.8584999999999999 rc 16.5
+for 8 r 16.5 mod 0.8584999999999999 rc 16.5
+for 9 r 16.5 mod 0.8584999999999999 rc 15.6415
+for 10 r 16.5 mod 0.8584999999999999 rc 14.783000000000001
+for 11 r 16.5 mod 0.8584999999999999 rc 13.924500000000002
+for 12 r 16.5 mod 0.8584999999999999 rc 13.066000000000003
+for 13 r 16.5 mod 0.8584999999999999 rc 13.924500000000002
+for 14 r 16.5 mod 0.8584999999999999 rc 14.783000000000001
+for 15 r 16.5 mod 0.8584999999999999 rc 15.6415
+for 16 r 16.5 mod 0.8584999999999999 rc 16.5
+
+Header text has been updated.
+Footer text has been updated.
+Chart Legends has been added.
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Polymer Map Round 2024-01-10_23-19.pptx

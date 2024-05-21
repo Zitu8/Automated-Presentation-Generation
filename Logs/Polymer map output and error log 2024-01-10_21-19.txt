@@ -1,0 +1,46 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Polymer: 'Liquid': 7, 'Liquid': 2, 'Sheet': 1, 'Powder': 3, 'Tape': 1, 'Filament': 2, 'Pellets': 1
+Polymer material detected - fs_process chart has been removed.
+
+Creating the presentation.... 
+5
+for 0 r 16.185530555555555 mod 0 rc 16.185530555555555
+5
+for 1 r 16.185530555555555 mod 1 rc 15.185530555555555
+5
+for 2 r 16.185530555555555 mod 2 rc 14.185530555555555
+5
+for 3 r 16.185530555555555 mod 3 rc 13.185530555555555
+5
+for 4 r 16.185530555555555 mod 4 rc 12.185530555555555
+5
+for 5 r 16.185530555555555 mod 0 rc 16.185530555555555
+5
+for 6 r 16.185530555555555 mod 1 rc 17.185530555555555
+5
+for 7 r 16.185530555555555 mod 2 rc 18.185530555555555
+5
+for 8 r 16.185530555555555 mod 3 rc 19.185530555555555
+5
+for 9 r 16.185530555555555 mod 4 rc 20.185530555555555
+5
+for 10 r 16.185530555555555 mod 0 rc 16.185530555555555
+5
+for 11 r 16.185530555555555 mod 1 rc 15.185530555555555
+5
+for 12 r 16.185530555555555 mod 2 rc 14.185530555555555
+5
+for 13 r 16.185530555555555 mod 3 rc 13.185530555555555
+5
+for 14 r 16.185530555555555 mod 4 rc 12.185530555555555
+5
+for 15 r 16.185530555555555 mod 0 rc 16.185530555555555
+5
+for 16 r 16.185530555555555 mod 1 rc 17.185530555555555
+
+Header text has been updated.
+Footer text has been updated.
+Chart Legends has been added.
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Polymer Map Round 2024-01-10_21-19.pptx

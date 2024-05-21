@@ -1,0 +1,49 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Metal: {'Powder': 7, 'Wire': 5, 'Rods': 1, 'Other': 1, 'Dispersion': 4, 'Filament': 1, 'Pellets': 1}
+Feedstock-Process chart data: {'Direct - Powder': 4, 'Direct - Wire': 5, 'Direct - Rods': 1, 'Direct - Other': 1, 'Sinter-based - Dispersion': 4, 'Sinter-based - Filament': 1, 'Sinter-based - Pellets': 1, 'Sinter-based - Powder': 2}
+Creating the presentation.... 
+
+Electron Beam Powder Bed Fusion
+2023/9/AMP-270-Icons-190308-97 - Electron beam Powder Bed Fusion.svg
+Area-wise Laser Beam Powder Bed Fusion
+2023/10/Area-wise Laser Beam Powder Bed Fusion.svg
+Laser Powder Bed Fusion
+2023/9/AMP-270-Icons-190308-96 - Laser Beam Powder Bed Fusion.svg
+Powder Laser Energy Deposition
+2023/10/Powder Laser Energy Deposition.svg
+Cold Spray
+2023/9/AMP-270-Icons-190308-107 - Coldspray.svg
+Wire Electric Arc Energy Deposition
+2023/10/Wire Electric Arc Energy Deposition.svg
+Wire Plasma Arc Energy Deposition
+2023/10/Wire Plasma Arc Energy Deposition.svg
+Wire Laser Energy Deposition
+2023/10/Wire Laser Beam Energy Deposition.svg
+Wire Electron Beam Energy Deposition
+2023/10/Wire Electron Beam Energy Deposition.svg
+Liquid Metal Printing
+2023/9/AMP-270-Icons-190308-110 - Liquid Metal Printing.svg
+Friction Energy Deposition
+2023/9/AMP-270-Icons-190308-109 - Friction Energy Deposition.svg
+Other Metal
+2023/10/other.png
+Material Jetting
+2023/9/AMP-270-Icons-190308-106 - Nanoparticle Jetting.svg
+Mold Slurry Deposition
+2023/10/Mold Slurry Deposition_(2).svg
+Area-wise Vat Polymerisation
+2023/10/Metal Lithography.svg
+Dispersion Material Extrusion
+2023/11/Dispersion Material Extrusion (1)_(2).svg
+Filament Material Extrusion
+2023/9/AMP-270-Icons-190308-103 - Filament Material Extrusion.svg
+Pellet Material Extrusion
+2023/9/AMP-270-Icons-190308-102 - Pellet Material Extrusion OLD.svg
+Binder Jetting
+2023/9/AMP-270-Icons-190308-104 - Binder Jetting.svg
+Metal Selective Laser Sintering
+2023/9/AMP-270-Icons-190308-94 - Metal Selective Laser Sintering.svg
+KKKKKKKKKKKKKKKKK
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Metal Map Round 2023-11-27_22-51.pptx

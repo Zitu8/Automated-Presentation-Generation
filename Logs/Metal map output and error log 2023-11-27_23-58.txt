@@ -1,0 +1,109 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Metal: {'Powder': 7, 'Wire': 5, 'Rods': 1, 'Other': 1, 'Dispersion': 4, 'Filament': 1, 'Pellets': 1}
+Feedstock-Process chart data: {'Direct - Powder': 4, 'Direct - Wire': 5, 'Direct - Rods': 1, 'Direct - Other': 1, 'Sinter-based - Dispersion': 4, 'Sinter-based - Filament': 1, 'Sinter-based - Pellets': 1, 'Sinter-based - Powder': 2}
+Creating the presentation.... 
+
+ for Electron Beam Powder Bed Fusion endX 29.99933611111111 and y 5.828424999999999
+ for Electron Beam Powder Bed Fusion r 16.5 and midr 12.692307692307692 theta 4.71238898038469 delta 4.869468613064179
+ for Electron Beam Powder Bed Fusion mid_x 31.98485047508327 and y 9.792380677061713
+ for Area-wise Laser Beam Powder Bed Fusion endX 35.09811651829774 and y 6.635992481129964
+ for Area-wise Laser Beam Powder Bed Fusion r 16.5 and midr 12.692307692307692 theta 5.026548245743669 delta 5.183627878423159
+ for Area-wise Laser Beam Powder Bed Fusion mid_x 35.761523223189975 and y 11.019496039147636
+ for Laser Powder Bed Fusion endX 39.69779277393692 and y 8.979644592813365
+ for Laser Powder Bed Fusion r 16.5 and midr 12.692307692307692 theta 5.340707511102648 delta 5.497787143782138
+ for Laser Powder Bed Fusion mid_x 38.97415294924806 and y 13.353608161863049
+ for Powder Laser Energy Deposition endX 43.34811651829774 and y 12.629968337174189
+ for Powder Laser Energy Deposition r 16.5 and midr 12.692307692307692 theta 5.654866776461628 delta 5.811946409141117
+ for Powder Laser Energy Deposition mid_x 41.308265071963476 and y 16.566237887921133
+ for Cold Spray endX 45.69176862998115 and y 17.22964459281336
+ for Cold Spray r 16.5 and midr 12.692307692307692 theta 5.969026041820607 delta 6.126105674500097
+ for Cold Spray mid_x 42.5353804340494 and y 20.342910636027835
+ for Wire Electric Arc Energy Deposition endX 46.49933611111111 and y 22.328424999999996
+ for Wire Electric Arc Energy Deposition r 16.5 and midr 12.692307692307692 theta 6.283185307179586 delta 6.440264939859076
+ for Wire Electric Arc Energy Deposition mid_x 42.5353804340494 and y 24.313939363972157
+ for Wire Plasma Arc Energy Deposition endX 45.69176862998115 and y 27.427205407186626
+ for Wire Plasma Arc Energy Deposition r 16.5 and midr 12.692307692307692 theta 6.5973445725385655 delta 6.754424205218055
+ for Wire Plasma Arc Energy Deposition mid_x 41.308265071963476 and y 28.09061211207886
+ for Wire Laser Energy Deposition endX 43.34811651829774 and y 32.0268816628258
+ for Wire Laser Energy Deposition r 16.5 and midr 12.692307692307692 theta 6.911503837897545 delta 7.0685834705770345
+ for Wire Laser Energy Deposition mid_x 38.974152949248065 and y 31.303241838136948
+ for Wire Electron Beam Energy Deposition endX 39.697792773936925 and y 35.67720540718663
+ for Wire Electron Beam Energy Deposition r 16.5 and midr 12.692307692307692 theta 7.225663103256524 delta 7.382742735936014
+ for Wire Electron Beam Energy Deposition mid_x 35.76152322318998 and y 33.63735396085236
+ for Liquid Metal Printing endX 35.09811651829775 and y 38.02085751887003
+ for Liquid Metal Printing r 16.5 and midr 12.692307692307692 theta 7.5398223686155035 delta 7.696902001294993
+ for Liquid Metal Printing mid_x 31.984850475083277 and y 34.864469322938284
+ for Friction Energy Deposition endX 29.999336111111116 and y 38.828424999999996
+ for Friction Energy Deposition r 16.5 and midr 12.692307692307692 theta 7.853981633974483 delta 8.011061266653973
+ for Friction Energy Deposition mid_x 28.013821747138945 and y 34.864469322938284
+ for Other Metal endX 24.900555703924486 and y 38.02085751887003
+ for Other Metal r 16.5 and midr 12.692307692307692 theta 8.168140899333462 delta 8.325220532012953
+ for Other Metal mid_x 24.237148999032243 and y 33.63735396085236
+ for Material Jetting endX 20.300879448285308 and y 35.677205407186634
+ for Material Jetting r 16.5 and midr 12.692307692307692 theta 8.482300164692441 delta 8.639379797371932
+ for Material Jetting mid_x 21.02451927297416 and y 31.30324183813694
+ for Mold Slurry Deposition endX 16.650555703924482 and y 32.02688166282581
+ for Mold Slurry Deposition r 16.5 and midr 12.692307692307692 theta 8.79645943005142 delta 8.953539062730911
+ for Mold Slurry Deposition mid_x 18.69040715025875 and y 28.090612112078855
+ for Area-wise Vat Polymerisation endX 14.306903592241081 and y 27.427205407186637
+ for Area-wise Vat Polymerisation r 16.5 and midr 12.692307692307692 theta 9.1106186954104 delta 9.26769832808989
+ for Area-wise Vat Polymerisation mid_x 17.463291788172825 and y 24.313939363972153
+ for Dispersion Material Extrusion endX 13.499336111111113 and y 22.328425000000006
+ for Dispersion Material Extrusion r 16.5 and midr 12.692307692307692 theta 9.42477796076938 delta 9.58185759344887
+ for Dispersion Material Extrusion mid_x 17.46329178817283 and y 20.34291063602783
+ for Filament Material Extrusion endX 14.306903592241078 and y 17.229644592813372
+ for Filament Material Extrusion r 16.5 and midr 12.692307692307692 theta 9.738937226128359 delta 9.89601685880785
+ for Filament Material Extrusion mid_x 18.690407150258757 and y 16.56623788792113
+ for Pellet Material Extrusion endX 16.650555703924475 and y 12.629968337174198
+ for Pellet Material Extrusion r 16.5 and midr 12.692307692307692 theta 10.053096491487338 delta 10.210176124166829
+ for Pellet Material Extrusion mid_x 21.024519272974167 and y 13.353608161863045
+ for Binder Jetting endX 20.3008794482853 and y 8.97964459281337
+ for Binder Jetting r 16.5 and midr 12.692307692307692 theta 10.367255756846317 delta 10.524335389525808
+ for Binder Jetting mid_x 24.237148999032257 and y 11.019496039147635
+ for Metal Selective Laser Sintering endX 24.900555703924475 and y 6.635992481129968
+ for Metal Selective Laser Sintering r 16.5 and midr 12.692307692307692 theta 10.681415022205297 delta 10.838494654884787
+ for Metal Selective Laser Sintering mid_x 28.01382174713896 and y 9.792380677061713
+Electron Beam Powder Bed Fusion
+2023/9/AMP-270-Icons-190308-97 - Electron beam Powder Bed Fusion.svg
+Area-wise Laser Beam Powder Bed Fusion
+2023/10/Area-wise Laser Beam Powder Bed Fusion.svg
+Laser Powder Bed Fusion
+2023/9/AMP-270-Icons-190308-96 - Laser Beam Powder Bed Fusion.svg
+Powder Laser Energy Deposition
+2023/10/Powder Laser Energy Deposition.svg
+Cold Spray
+2023/9/AMP-270-Icons-190308-107 - Coldspray.svg
+Wire Electric Arc Energy Deposition
+2023/10/Wire Electric Arc Energy Deposition.svg
+Wire Plasma Arc Energy Deposition
+2023/10/Wire Plasma Arc Energy Deposition.svg
+Wire Laser Energy Deposition
+2023/10/Wire Laser Beam Energy Deposition.svg
+Wire Electron Beam Energy Deposition
+2023/10/Wire Electron Beam Energy Deposition.svg
+Liquid Metal Printing
+2023/9/AMP-270-Icons-190308-110 - Liquid Metal Printing.svg
+Friction Energy Deposition
+2023/9/AMP-270-Icons-190308-109 - Friction Energy Deposition.svg
+Other Metal
+2023/10/other.png
+Material Jetting
+2023/9/AMP-270-Icons-190308-106 - Nanoparticle Jetting.svg
+Mold Slurry Deposition
+2023/10/Mold Slurry Deposition_(2).svg
+Area-wise Vat Polymerisation
+2023/10/Metal Lithography.svg
+Dispersion Material Extrusion
+2023/11/Dispersion Material Extrusion (1)_(2).svg
+Filament Material Extrusion
+2023/9/AMP-270-Icons-190308-103 - Filament Material Extrusion.svg
+Pellet Material Extrusion
+2023/9/AMP-270-Icons-190308-102 - Pellet Material Extrusion OLD.svg
+Binder Jetting
+2023/9/AMP-270-Icons-190308-104 - Binder Jetting.svg
+Metal Selective Laser Sintering
+2023/9/AMP-270-Icons-190308-94 - Metal Selective Laser Sintering.svg
+KKKKKKKKKKKKKKKKK
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Metal Map Round 2023-11-27_23-58.pptx

@@ -1,0 +1,82 @@
+
+Updating the Charts....
+Chart moved to: x=10.313808333333334 cm, y=2.6143916666666667 cm
+Chart moved to: x=18.582752777777777 cm, y=10.882372222222223 cm
+Chart moved to: x=19.72441111111111 cm, y=12.024030555555555 cm
+Chart moved to: x=19.72441111111111 cm, y=12.024030555555555 cm
+PC 2
+Sorted Feedstock chart data for Metal: 'Powder': 7, 'Wire': 5, 'Rods': 1, 'Other': 1, 'Dispersion': 4, 'Filament': 1, 'Pellets': 1
+Feedstock-Process chart data for Metal: {'Electron Beam Powder Bed Fusion': 1, 'Area-wise Laser Beam Powder Bed Fusion': 1, 'Laser Powder Bed Fusion': 1, 'Powder Laser Energy Deposition': 1, 'Cold Spray': 1, 'Wire Electric Arc Energy Deposition': 1, 'Wire Plasma Arc Energy Deposition': 1, 'Wire Laser Energy Deposition': 1, 'Wire Electron Beam Energy Deposition': 1, 'Liquid Metal Printing': 1, 'Friction Energy Deposition': 1, 'Other Metal': 1, 'Material Jetting': 1, 'Mold Slurry Deposition': 1, 'Area-wise Vat Polymerisation': 1, 'Dispersion Material Extrusion': 1, 'Filament Material Extrusion': 1, 'Pellet Material Extrusion': 1, 'Binder Jetting': 1, 'Metal Selective Laser Sintering': 1}
+
+Creating the presentation.... 
+Image for Dispersion Material Extrusion not found. Using a default image.
+Image for Pellet Material Extrusion not found. Using a default image.
+10 images found for Electron Beam Powder Bed Fusion.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+2 images found for Area-wise Laser Beam Powder Bed Fusion.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+82 images found for Laser Powder Bed Fusion.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+33 images found for Powder Laser Energy Deposition.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+6 images found for Cold Spray.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+15 images found for Wire Electric Arc Energy Deposition.
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/AMmake black logo.png: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/AMmake black logo.png'
+Unexpected error: 'NoneType' object is not subscriptable
+Even after resizing, the images cannot be packed within the specified boundary!
+5 images found for Wire Plasma Arc Energy Deposition.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+13 images found for Wire Laser Energy Deposition.
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/Permanova-GKN-Aerospace-Horizontal-Green.png: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/Permanova-GKN-Aerospace-Horizontal-Green.png'
+Unexpected error: 'NoneType' object is not subscriptable
+Even after resizing, the images cannot be packed within the specified boundary!
+7 images found for Wire Electron Beam Energy Deposition.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+3 images found for Liquid Metal Printing.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+2 images found for Friction Energy Deposition.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+2 images found for Other Metal.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+2 images found for Material Jetting.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+1 images found for Mold Slurry Deposition.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+3 images found for Area-wise Vat Polymerisation.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+2 images found for Dispersion Material Extrusion.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+14 images found for Filament Material Extrusion.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+5 images found for Pellet Material Extrusion.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+16 images found for Binder Jetting.
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/LOGO_addimetal_200X32px_FULLBLACK.svg: <urlopen error [WinError 2] The system cannot find the file specified: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023\\11\\LOGO_addimetal_200X32px_FULLBLACK.svg'>
+Unexpected error: 'NoneType' object is not subscriptable
+Even after resizing, the images cannot be packed within the specified boundary!
+1 images found for Metal Selective Laser Sintering.
+Unexpected error: not enough values to unpack (expected 4, got 3)
+Even after resizing, the images cannot be packed within the specified boundary!
+
+Header text has been updated.
+Footer text has been updated.
+Chart Legends has been added.
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Metal Map Round 2024-01-11_03-41.pptx

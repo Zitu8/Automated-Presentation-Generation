@@ -1,0 +1,18 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Polymer: {'Liquid': 7, 'Liquid ': 2, 'Sheet': 1, 'Powder': 3, 'Tape': 1, 'Filament': 2, 'Pellets': 1}
+Polymer material detected - fs_process chart has been removed.
+
+Creating the presentation.... 
+2 images found for Area-wise Film Polymerization.
+87 images found for Area-wise Vat Polymerization.
+41 images found for VAT Polymerization.
+3 images found for Volumetric VAT Polymerization.
+10 images found for Material Jetting.
+3 images found for Thermoset Deposition.
+3 images found for Continuous Fiber Thermoset Deposition.
+10 images found for Elastomer Deposition.
+1 images found for Vat Vulcanization.
+Even after resizing, the images cannot be packed within the specified boundary!
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Polymer Map Round 2023-12-18_14-56.pptx

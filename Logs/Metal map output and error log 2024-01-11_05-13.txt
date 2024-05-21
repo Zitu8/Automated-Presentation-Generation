@@ -1,0 +1,47 @@
+
+Updating the Charts....
+Chart moved to: x=10.313808333333334 cm, y=2.6143916666666667 cm
+Chart moved to: x=18.582752777777777 cm, y=10.882372222222223 cm
+Chart moved to: x=19.72441111111111 cm, y=12.024030555555555 cm
+Chart moved to: x=19.72441111111111 cm, y=12.024030555555555 cm
+PC 2
+Sorted Feedstock chart data for Metal: 'Powder': 7, 'Wire': 5, 'Rods': 1, 'Other': 1, 'Dispersion': 4, 'Filament': 1, 'Pellets': 1
+Feedstock-Process chart data for Metal: {'Electron Beam Powder Bed Fusion': 1, 'Area-wise Laser Beam Powder Bed Fusion': 1, 'Laser Powder Bed Fusion': 1, 'Powder Laser Energy Deposition': 1, 'Cold Spray': 1, 'Wire Electric Arc Energy Deposition': 1, 'Wire Plasma Arc Energy Deposition': 1, 'Wire Laser Energy Deposition': 1, 'Wire Electron Beam Energy Deposition': 1, 'Liquid Metal Printing': 1, 'Friction Energy Deposition': 1, 'Other Metal': 1, 'Material Jetting': 1, 'Mold Slurry Deposition': 1, 'Area-wise Vat Polymerisation': 1, 'Dispersion Material Extrusion': 1, 'Filament Material Extrusion': 1, 'Pellet Material Extrusion': 1, 'Binder Jetting': 1, 'Metal Selective Laser Sintering': 1}
+
+Creating the presentation.... 
+Image for Dispersion Material Extrusion not found. Using a default image.
+Image for Pellet Material Extrusion not found. Using a default image.
+10 images found for Electron Beam Powder Bed Fusion.
+2 images found for Area-wise Laser Beam Powder Bed Fusion.
+82 images found for Laser Powder Bed Fusion.
+33 images found for Powder Laser Energy Deposition.
+6 images found for Cold Spray.
+15 images found for Wire Electric Arc Energy Deposition.
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/AMmake black logo.png: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/AMmake black logo.png'
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/AMmake black logo.png: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/AMmake black logo.png'
+5 images found for Wire Plasma Arc Energy Deposition.
+13 images found for Wire Laser Energy Deposition.
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/Permanova-GKN-Aerospace-Horizontal-Green.png: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/Permanova-GKN-Aerospace-Horizontal-Green.png'
+7 images found for Wire Electron Beam Energy Deposition.
+3 images found for Liquid Metal Printing.
+2 images found for Friction Energy Deposition.
+2 images found for Other Metal.
+2 images found for Material Jetting.
+1 images found for Mold Slurry Deposition.
+3 images found for Area-wise Vat Polymerisation.
+2 images found for Dispersion Material Extrusion.
+14 images found for Filament Material Extrusion.
+5 images found for Pellet Material Extrusion.
+16 images found for Binder Jetting.
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/LOGO_addimetal_200X32px_FULLBLACK.svg: <urlopen error [WinError 2] The system cannot find the file specified: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023\\11\\LOGO_addimetal_200X32px_FULLBLACK.svg'>
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/LOGO_addimetal_200X32px_FULLBLACK.svg: <urlopen error [WinError 2] The system cannot find the file specified: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023\\11\\LOGO_addimetal_200X32px_FULLBLACK.svg'>
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/LOGO_addimetal_200X32px_FULLBLACK.svg: <urlopen error [WinError 2] The system cannot find the file specified: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023\\11\\LOGO_addimetal_200X32px_FULLBLACK.svg'>
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/LOGO_addimetal_200X32px_FULLBLACK.svg: <urlopen error [WinError 2] The system cannot find the file specified: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023\\11\\LOGO_addimetal_200X32px_FULLBLACK.svg'>
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/LOGO_addimetal_200X32px_FULLBLACK.svg: <urlopen error [WinError 2] The system cannot find the file specified: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023\\11\\LOGO_addimetal_200X32px_FULLBLACK.svg'>
+1 images found for Metal Selective Laser Sintering.
+
+Header text has been updated.
+Footer text has been updated.
+Chart Legends has been added.
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Metal Map Round 2024-01-11_05-13.pptx

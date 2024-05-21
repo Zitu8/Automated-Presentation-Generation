@@ -1,0 +1,40 @@
+
+Updating the Charts....
+Feedstock chart data: {'Powder': 10, 'Wire': 5, 'Rods': 1, 'Other': 1, 'Dispersion': 1, 'Filament': 1, 'Pellets': 1}
+Feedstock-Process chart data: {'Direct - Powder': 5, 'Direct - Wire': 5, 'Direct - Rods': 1, 'Direct - Other': 1, 'Sinter-based - Dispersion': 1, 'Sinter-based - Filament': 1, 'Sinter-based - Pellets': 1, 'Sinter-based - Powder': 5}
+
+Creating the Powerpoint map...
+['Electron Beam Powder Bed Fusion', 'Area-wise Laser Beam Powder Bed Fusion', 'Laser Powder Bed Fusion', 'Powder Laser Energy Deposition', 'Cold Spray', 'Wire Electric Arc Energy Deposition', 'Wire Plasma Arc Energy Deposition', 'Wire Laser Energy Deposition', 'Wire Electron Beam Energy Deposition', 'Liquid Metal Printing', 'Friction Energy Deposition', 'Other Metal', 'Nanoparticle Jetting', 'Metal Filament Material Extrusion', 'Metal Pellet Material Extrusion', 'Metal Lithography', 'Binder Jetting', 'Machined Binder Jetting', 'Mold Slurry Deposition', 'Metal Selective Laser Sintering']
+Creating the presentation.... 
+
+Image for Metal Pellet Material Extrusion not found. Using a default image.
+7 images found for Electron Beam Powder Bed Fusion.
+1 images found for Area-wise Laser Beam Powder Bed Fusion.
+67 images found for Laser Powder Bed Fusion.
+Error adding image from path C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/Logo Huake 3D 20220225.png: unsupported image format, expected one of: dict_keys(['BMP', 'GIF', 'JPEG', 'PNG', 'TIFF', 'WMF']), got 'WEBP'
+Error adding image from path C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/Logo Open Additive 20220225.png: unsupported image format, expected one of: dict_keys(['BMP', 'GIF', 'JPEG', 'PNG', 'TIFF', 'WMF']), got 'WEBP'
+29 images found for Powder Laser Energy Deposition.
+Error adding image from path C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/Logo RPM Innovations 20220225.png: unsupported image format, expected one of: dict_keys(['BMP', 'GIF', 'JPEG', 'PNG', 'TIFF', 'WMF']), got 'WEBP'
+Error adding image from path C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/Logo Lunovu 20220225.png: unsupported image format, expected one of: dict_keys(['BMP', 'GIF', 'JPEG', 'PNG', 'TIFF', 'WMF']), got 'WEBP'
+4 images found for Cold Spray.
+11 images found for Wire Electric Arc Energy Deposition.
+Error adding image from path C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/Logo MX3D 20220228.png: unsupported image format, expected one of: dict_keys(['BMP', 'GIF', 'JPEG', 'PNG', 'TIFF', 'WMF']), got 'WEBP'
+Error adding image from path C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/Logo AMl3D 20220228.png: unsupported image format, expected one of: dict_keys(['BMP', 'GIF', 'JPEG', 'PNG', 'TIFF', 'WMF']), got 'WEBP'
+5 images found for Wire Plasma Arc Energy Deposition.
+9 images found for Wire Laser Energy Deposition.
+Error adding image from path C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/Logo MX3D 20220228.png: unsupported image format, expected one of: dict_keys(['BMP', 'GIF', 'JPEG', 'PNG', 'TIFF', 'WMF']), got 'WEBP'
+4 images found for Wire Electron Beam Energy Deposition.
+2 images found for Liquid Metal Printing.
+1 images found for Friction Energy Deposition.
+2 images found for Other Metal.
+2 images found for Nanoparticle Jetting.
+9 images found for Metal Filament Material Extrusion.
+4 images found for Metal Pellet Material Extrusion.
+3 images found for Metal Lithography.
+Error adding image from path C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/Logo Holo.webp: unsupported image format, expected one of: dict_keys(['BMP', 'GIF', 'JPEG', 'PNG', 'TIFF', 'WMF']), got 'WEBP'
+10 images found for Binder Jetting.
+1 images found for Machined Binder Jetting.
+1 images found for Mold Slurry Deposition.
+2 images found for Metal Selective Laser Sintering.
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Metal Map Round 2023-11-09_13-07.pptx

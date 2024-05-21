@@ -1,0 +1,30 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Ceramics: {'Dispersion': 6, 'Filament': 1, 'Pellets': 1, 'Powder': 3}
+Feedstock-Process chart data: {'Technical Ceramics - Dispersion': 5, 'Clay / Concrete - Dispersion': 1, 'Clay / Concrete, Sand, Technical Ceramics - Powder': 1, 'Technical Ceramics - Powder': 2, 'Technical Ceramics - Pellets': 1, 'Technical Ceramics - Filament': 1}
+Creating the presentation.... 
+
+11
+0
+11971204
+1
+13942167
+2
+14915438
+4
+13047745
+5
+10799761
+6
+8551776
+7
+7017511
+8
+6684083
+9
+7657354
+10
+9628317
+11
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Ceramics Map Round 2023-11-28_14-19.pptx

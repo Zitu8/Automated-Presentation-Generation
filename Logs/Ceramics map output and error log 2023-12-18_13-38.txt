@@ -1,0 +1,18 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Ceramics: {'Dispersion': 7, 'Powder': 3, 'Pellets': 1, 'Filament': 1}
+1
+list index out of range
+list index out of range
+list index out of range
+2
+3
+Feedstock-Process chart data for Ceramics: {'Laser Slurry Drying': [1, 1, 1], 'Mold Slurry Deposition': [1, 1, 1], 'Vat Polymerization': [1, 1, 1], 'Area-wise Vat Polymerization': [1, 1, 1], 'Material Jetting': [1, 1, 1], 'Dispersion Material Extrusion': [1, 1, 1], 'Slurry-based Binder Jetting': [1, 1, 1], 'Binder Jetting': [1, 1, 1], 'Laser Powder Bed Fusion': [1, 1, 1], 'Mold Powder Deposition': [1, 1, 1], 'Pellet Material Extrusion': [1, 1, 1], 'Filament Material Extrusion': [1, 1, 1]}
+
+Creating the presentation.... 
+
+Header text has been updated.
+Footer text has been updated.
+Chart Legends has been added.
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Ceramics Map Round 2023-12-18_13-38.pptx

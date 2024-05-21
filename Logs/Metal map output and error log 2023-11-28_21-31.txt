@@ -1,0 +1,26 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Metal: {'Powder': 9, 'Wire': 5, 'Rods': 1, 'Other': 1, 'Dispersion': 2, 'Filament': 1, 'Pellets': 1}
+va [9, 5, 1, 1, 2, 1, 1] a 81.0 ro -9.0
+va [9, 5, 1, 1, 2, 1, 1] a 207.0 ro -63.0
+va [9, 5, 1, 1, 2, 1, 1] a 261.0 ro -9.0
+va [9, 5, 1, 1, 2, 1, 1] a 279.0 ro 9.0
+va [9, 5, 1, 1, 2, 1, 1] a 306.0 ro 36.0
+va [9, 5, 1, 1, 2, 1, 1] a 333.0 ro 63.0
+va [9, 5, 1, 1, 2, 1, 1] a 351.0 ro 81.0
+-9.0
+-63.0
+-9.0
+9.0
+36.0
+63.0
+81.0
+Feedstock-Process chart data: {'Direct - Powder': 4, 'Direct - Wire': 5, 'Direct - Rods': 1, 'Direct - Other': 1, 'Sinter-based - Dispersion': 2, 'Sinter-based - Filament': 1, 'Sinter-based - Pellets': 1, 'Sinter-based - Powder': 4}
+Creating the presentation.... 
+
+20
+20
+Image for Pellet Material Extrusion not found. Using a default image.
+Image for Dispersion Material Extrusion not found. Using a default image.
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Metal Map Round 2023-11-28_21-31.pptx

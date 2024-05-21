@@ -1,0 +1,6 @@
+
+Updating the Charts....
+['Laser Slurry Drying', 'Mold Slurry Deposition', 'Area-wise Vat Polymerization', 'Vat Polymerization', 'Material Jetting', 'Dispersion Material Extrusion', 'Slurry-based Binder Jetting', 'Binder Jetting', 'Laser Powder Bed Fusion', 'Mold Powder Deposition', 'Pellet Material Extrusion', 'Filament Material Extrusion']
+Feedstock chart data for Ceramics: {'Dispersion': 7, 'Powder': 3, 'Pellets': 1, 'Filament': 1}
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Ceramics Map Round 2023-11-22_19-27.pptx

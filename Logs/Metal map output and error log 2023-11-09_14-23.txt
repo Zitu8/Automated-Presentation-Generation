@@ -1,0 +1,32 @@
+
+Updating the Charts....
+['Electron Beam Powder Bed Fusion', 'Area-wise Laser Beam Powder Bed Fusion', 'Laser Powder Bed Fusion', 'Powder Laser Energy Deposition', 'Cold Spray', 'Wire Electric Arc Energy Deposition', 'Wire Plasma Arc Energy Deposition', 'Wire Laser Energy Deposition', 'Wire Electron Beam Energy Deposition', 'Liquid Metal Printing', 'Friction Energy Deposition', 'Other Metal', 'Nanoparticle Jetting', 'Filament Material Extrusion', 'Pellet Material Extrusion', 'Area-wise Vat Polymerisation', 'Binder Jetting', 'Machined Binder Jetting', 'Mold Slurry Deposition', 'Metal Selective Laser Sintering']
+Feedstock chart data for Metal: {'Powder': 8, 'Wire': 5, 'Rods': 1, 'Other': 1, 'Dispersion': 3, 'Filament': 1, 'Pellets': 1}
+Feedstock-Process chart data: {'Direct - Powder': 4, 'Direct - Wire': 5, 'Direct - Rods': 1, 'Direct - Other': 1, 'Sinter-based - Dispersion': 3, 'Sinter-based - Filament': 1, 'Sinter-based - Pellets': 1, 'Sinter-based - Powder': 3}
+
+Creating the Powerpoint map...
+Creating the presentation.... 
+
+Image for Pellet Material Extrusion not found. Using a default image.
+10 images found for Electron Beam Powder Bed Fusion.
+3 images found for Area-wise Laser Beam Powder Bed Fusion.
+80 images found for Laser Powder Bed Fusion.
+34 images found for Powder Laser Energy Deposition.
+6 images found for Cold Spray.
+14 images found for Wire Electric Arc Energy Deposition.
+5 images found for Wire Plasma Arc Energy Deposition.
+14 images found for Wire Laser Energy Deposition.
+7 images found for Wire Electron Beam Energy Deposition.
+3 images found for Liquid Metal Printing.
+2 images found for Friction Energy Deposition.
+3 images found for Other Metal.
+2 images found for Nanoparticle Jetting.
+13 images found for Filament Material Extrusion.
+5 images found for Pellet Material Extrusion.
+4 images found for Area-wise Vat Polymerisation.
+13 images found for Binder Jetting.
+1 images found for Machined Binder Jetting.
+1 images found for Mold Slurry Deposition.
+2 images found for Metal Selective Laser Sintering.
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Metal Map Round 2023-11-09_14-23.pptx

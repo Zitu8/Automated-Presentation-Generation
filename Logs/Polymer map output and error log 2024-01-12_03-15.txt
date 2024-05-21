@@ -1,0 +1,90 @@
+
+Updating the Charts....
+Chart moved to: x=10.313808333333334 cm, y=2.6143916666666667 cm
+Chart moved to: x=18.582752777777777 cm, y=10.882372222222223 cm
+Chart moved to: x=19.72441111111111 cm, y=12.024030555555555 cm
+Chart moved to: x=19.72441111111111 cm, y=12.024030555555555 cm
+Sorted Feedstock chart data for Polymer: 'Liquid': 7, 'Liquid': 2, 'Sheet': 1, 'Powder': 3, 'Tape': 1, 'Filament': 2, 'Pellets': 1
+Polymer material detected - fs_process chart has been removed.
+
+Creating the presentation.... 
+2 images found for Area-wise Film Polymerization.
+87 images found for Area-wise Vat Polymerization.
+41 images found for VAT Polymerization.
+3 images found for Volumetric VAT Polymerization.
+10 images found for Material Jetting.
+3 images found for Thermoset Deposition.
+3 images found for Continuous Fiber Thermoset Deposition.
+10 images found for Elastomer Deposition.
+1 images found for Vat Vulcanization.
+0.3438824060786274 38.51801447811771 37.674132072039086 8
+1 images found for Continuous Fiber Sheet Lamination.
+1 images found for Electrophotography Lamination.
+4 images found for Thermal Powder Bed Fusion.
+24 images found for Laser Powder Bed Fusion.
+5 images found for Continuous Fiber Thermoplastic Deposition.
+7 images found for Continuous Fiber Material Extrusion.
+162 images found for Filament Material Extrusion.
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/3DX.jpg: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/3DX.jpg'
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/logo_3d_evolve_BIG.jpg: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/logo_3d_evolve_BIG.jpg'
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/Prolay.svg: <urlopen error [WinError 2] The system cannot find the file specified: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023\\11\\Prolay.svg'>
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/FLSUN.jpeg: [Errno 2] No such file or directory: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023/11/FLSUN.jpeg'
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+55 images found for Pellet Material Extrusion.
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/11/Lines.svg: <urlopen error [WinError 2] The system cannot find the file specified: 'C:\\Users\\HZitu\\OneDrive - ampower\\media\\uploads\\2023\\11\\Lines.svg'>
+Unexpected error: cannot unpack non-iterable NoneType object
+Even after resizing, the images cannot be packed within the specified boundary!
+
+Header text has been updated.
+Footer text has been updated.
+Chart Legends has been added.
+Traceback (most recent call last):
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 81, in _write
+    self._write_content_types_stream(phys_writer)
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 91, in _write_content_types_stream
+    phys_writer.write(
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 220, in write
+    self._zipf.writestr(pack_uri.membername, blob)
+    ^^^^^^^^^^
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\util.py", line 215, in __get__
+    value = self._fget(obj)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 225, in _zipf
+    return zipfile.ZipFile(self._pkg_file, "w", compression=zipfile.ZIP_DEFLATED)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\zipfile.py", line 1284, in __init__
+    self.fp = io.open(file, filemode)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'Map Output\\Polymer Map Round 2024-01-12_03-15.pptx'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\technology_maps.py", line 65, in <module>
+    main(material)
+  File "C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\technology_maps.py", line 52, in main
+    map.prs.save(output_path)
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\presentation.py", line 39, in save
+    self.part.save(file)
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\parts\presentation.py", line 107, in save
+    self.package.save(path_or_stream)
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\package.py", line 153, in save
+    PackageWriter.write(pkg_file, self._rels, tuple(self.iter_parts()))
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 76, in write
+    cls(pkg_file, pkg_rels, parts)._write()
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 80, in _write
+    with _PhysPkgWriter.factory(self._pkg_file) as phys_writer:
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 216, in __exit__
+    self._zipf.close()
+    ^^^^^^^^^^
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\util.py", line 215, in __get__
+    value = self._fget(obj)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\site-packages\pptx\opc\serialized.py", line 225, in _zipf
+    return zipfile.ZipFile(self._pkg_file, "w", compression=zipfile.ZIP_DEFLATED)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HZitu\AppData\Local\Programs\Python\Python311\Lib\zipfile.py", line 1284, in __init__
+    self.fp = io.open(file, filemode)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'Map Output\\Polymer Map Round 2024-01-12_03-15.pptx'

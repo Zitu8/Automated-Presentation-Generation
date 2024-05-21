@@ -1,0 +1,5 @@
+
+Updating the Charts....
+Feedstock chart data: {'Powder': 8, 'Wire': 5, 'Rods': 1, 'Other': 1, 'Dispersion': 3, 'Filament': 1, 'Pellets': 1}
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Metal Map Round 2023-11-09_13-51.pptx

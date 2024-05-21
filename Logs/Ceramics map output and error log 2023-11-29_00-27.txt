@@ -1,0 +1,5 @@
+
+Updating the Charts....
+Sorted Feedstock chart data for Ceramics: {'Dispersion': 6, 'Filament': 1, 'Pellets': 1, 'Powder': 3}
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Ceramics Map Round 2023-11-29_00-27.pptx

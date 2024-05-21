@@ -1,0 +1,10 @@
+
+Updating the Charts....
+['Mold Slurry Deposition', 'Vat Polymerization', 'Material Jetting', 'Dispersion Material Extrusion', 'Filament Material Extrusion', 'Pellet Material Extrusion', 'Binder Jetting', 'Laser Powder Bed Fusion', 'Mold Powder Deposition']
+Creating the presentation.... 
+
+1 images found for Mold Slurry Deposition.
+5 images found for Vat Polymerization.
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo-dm-2016_schwarz_cmyk_ohne_spruch_0.png: Decompressed Data Too Large
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Ceramics Map Round 2023-11-09_13-16.pptx

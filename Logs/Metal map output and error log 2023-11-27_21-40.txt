@@ -1,0 +1,6 @@
+
+Updating the Charts....
+['Area-wise Vat Polymerisation', 'Dispersion Material Extrusion', 'Material Jetting', 'Mold Slurry Deposition', 'Filament Material Extrusion', 'Other Metal', 'Pellet Material Extrusion', 'Area-wise Laser Beam Powder Bed Fusion', 'Binder Jetting', 'Cold Spray', 'Electron Beam Powder Bed Fusion', 'Laser Powder Bed Fusion', 'Machined Binder Jetting', 'Metal Selective Laser Sintering', 'Powder Laser Energy Deposition', 'Powder Metallurgy Jetting', 'Ultrasonic Energy Deposition', 'Friction Energy Deposition', 'Liquid Metal Printing', 'Resistance Welding', 'Wire Arc Energy Deposition', 'Wire Electric Arc Energy Deposition', 'Wire Electron Beam Energy Deposition', 'Wire Laser Energy Deposition', 'Wire Plasma Arc Energy Deposition']
+Sorted Feedstock chart data for Metal: {'Powder': 10, 'Wire': 7, 'Rods': 1, 'Other': 1, 'Dispersion': 4, 'Filament': 1, 'Pellets': 1}
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Metal Map Round 2023-11-27_21-40.pptx

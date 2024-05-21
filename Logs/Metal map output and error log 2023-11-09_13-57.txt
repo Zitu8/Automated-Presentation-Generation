@@ -1,0 +1,331 @@
+
+Updating the Charts....
+Feedstock chart data: {'Powder': 8, 'Wire': 5, 'Rods': 1, 'Other': 1, 'Dispersion': 3, 'Filament': 1, 'Pellets': 1}
+Feedstock-Process chart data: {'Direct - Powder': 4, 'Direct - Wire': 5, 'Direct - Rods': 1, 'Direct - Other': 1, 'Sinter-based - Dispersion': 3, 'Sinter-based - Filament': 1, 'Sinter-based - Pellets': 1, 'Sinter-based - Powder': 3}
+
+Creating the Powerpoint map...
+['Electron Beam Powder Bed Fusion', 'Area-wise Laser Beam Powder Bed Fusion', 'Laser Powder Bed Fusion', 'Powder Laser Energy Deposition', 'Cold Spray', 'Wire Electric Arc Energy Deposition', 'Wire Plasma Arc Energy Deposition', 'Wire Laser Energy Deposition', 'Wire Electron Beam Energy Deposition', 'Liquid Metal Printing', 'Friction Energy Deposition', 'Other Metal', 'Nanoparticle Jetting', 'Filament Material Extrusion', 'Pellet Material Extrusion', 'Area-wise Vat Polymerisation', 'Binder Jetting', 'Machined Binder Jetting', 'Mold Slurry Deposition', 'Metal Selective Laser Sintering']
+Creating the presentation.... 
+
+Image for Pellet Material Extrusion not found. Using a default image.
+10 images found for Electron Beam Powder Bed Fusion.
+3 images found for Area-wise Laser Beam Powder Bed Fusion.
+80 images found for Laser Powder Bed Fusion.
+Error adding image from path C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/Logo Huake 3D 20220225.png: unsupported image format, expected one of: dict_keys(['BMP', 'GIF', 'JPEG', 'PNG', 'TIFF', 'WMF']), got 'WEBP'
+Error adding image from path C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/Logo Open Additive 20220225.png: unsupported image format, expected one of: dict_keys(['BMP', 'GIF', 'JPEG', 'PNG', 'TIFF', 'WMF']), got 'WEBP'
+34 images found for Powder Laser Energy Deposition.
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+Unexpected error: 'NoneType' object is not subscriptable
+Unexpected error encountered with image C:\Users\HZitu\OneDrive - ampower\media\uploads\2023/10/logo_en.svg: EntitiesForbidden(name='ns_flows', system_id=None, public_id=None)
+
+Presentation saved successfully at C:\Users\HZitu\ampower\Staff - Dokumente\Zitu\Map Master\AMbase Plugin - Technology Maps\ambase2\plugins\technology_maps\Map Output\Metal Map Round 2023-11-09_13-57.pptx
